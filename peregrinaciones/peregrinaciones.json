@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "ultima_actualizacion": "2026-02-10T10:00:00Z",
+  "peregrinaciones": [
+    {
+      "id": "peregrinacion-fatima-2025",
+      "nombre": "Peregrinación a Fátima 2025",
+      "descripcion": "Peregrinación anual de la juventud cordobesa al Santuario de Nuestra Señora de Fátima en Portugal. Un fin de semana de oración, encuentro y camino junto a cientos de jóvenes.",
+      "fecha_salida": "2025-02-20",
+      "fecha_regreso": "2025-02-22",
+      "precio": 150.0,
+      "requisitos": [
+        "Ser mayor de 18 años",
+        "Rellenar la ficha de inscripción completa",
+        "Abonar el importe antes del 13 de febrero",
+        "Disponer de DNI o pasaporte vigente"
+      ],
+      "inscripcion_apertura": "2025-01-10",
+      "inscripcion_cierre": "2025-02-13",
+      "plazas": 120,
+      "enlace_inscripcion": "https://forms.gle/ejemplo-fatima-2025",
+      "imagen_portada": "peregrinaciones/images/fatima-2025-portada.jpg",
+      "imagenes": [
+        "peregrinaciones/images/fatima-2025-1.jpg",
+        "peregrinaciones/images/fatima-2025-2.jpg",
+        "peregrinaciones/images/fatima-2025-3.jpg"
+      ],
+      "color_tema": "#1565C0"
+    },
+    {
+      "id": "peregrinacion-guadalupe-2025",
+      "nombre": "Proceso Guadalupe XXXI",
+      "descripcion": "La peregrinación más emblemática de la juventud cordobesa. Tres días caminando hasta el Monasterio de Guadalupe en Extremadura, donde la Virgen de Guadalupe nos espera. Una experiencia de fe, amistad y superación personal.",
+      "fecha_salida": "2025-09-06",
+      "fecha_regreso": "2025-09-08",
+      "precio": 100.0,
+      "requisitos": [
+        "Edad recomendada: 16-35 años",
+        "Menores de 18 años: autorización paterna",
+        "Estar en condiciones físicas para caminar",
+        "Certificado médico recomendado"
+      ],
+      "inscripcion_apertura": "2025-06-01",
+      "inscripcion_cierre": "2025-08-15",
+      "plazas": 500,
+      "enlace_inscripcion": "https://forms.gle/ejemplo-guadalupe-2025",
+      "imagen_portada": "peregrinaciones/images/guadalupe-2025-portada.jpg",
+      "imagenes": [
+        "peregrinaciones/images/guadalupe-camino-1.jpg",
+        "peregrinaciones/images/guadalupe-camino-2.jpg",
+        "peregrinaciones/images/guadalupe-monasterio.jpg",
+        "peregrinaciones/images/guadalupe-grupo.jpg"
+      ],
+      "color_tema": "#2E7D32"
+    },
+    {
+      "id": "peregrinacion-inmaculada-2025",
+      "nombre": "Vigilia de la Inmaculada",
+      "descripcion": "Noche de vigilia y oración en honor a la Inmaculada Concepción. Celebración en la Catedral de Córdoba con adoración eucarística, cantos y procesión de antorchas.",
+      "fecha_salida": "2025-12-07",
+      "fecha_regreso": "2025-12-08",
+      "precio": 0.0,
+      "requisitos": [
+        "Abierto a todas las edades",
+        "Menores de 14 años: acompañados de adulto"
+      ],
+      "inscripcion_apertura": "2025-11-01",
+      "inscripcion_cierre": "2025-12-05",
+      "plazas": 800,
+      "enlace_inscripcion": "https://forms.gle/ejemplo-inmaculada-2025",
+      "imagen_portada": "peregrinaciones/images/inmaculada-2025-portada.jpg",
+      "imagenes": [
+        "peregrinaciones/images/inmaculada-catedral.jpg",
+        "peregrinaciones/images/inmaculada-procesion.jpg"
+      ],
+      "color_tema": "#7B1FA2"
+    },
+    {
+      "id": "peregrinacion-roma-jmj-2027",
+      "nombre": "JMJ Roma 2027 - Preparación",
+      "descripcion": "La próxima Jornada Mundial de la Juventud se celebrará en Roma en 2027. La Delegación de Juventud de Córdoba ya está preparando el viaje. ¡Apúntate para recibir información!",
+      "fecha_salida": "2027-08-01",
+      "fecha_regreso": "2027-08-10",
+      "precio": 850.0,
+      "requisitos": [
+        "Edad: 16-35 años",
+        "Menores de 18: autorización paterna",
+        "Pasaporte vigente",
+        "Seguro de viaje incluido"
+      ],
+      "inscripcion_apertura": "2026-09-01",
+      "inscripcion_cierre": "2027-03-31",
+      "plazas": 200,
+      "enlace_inscripcion": "https://forms.gle/ejemplo-jmj-2027",
+      "imagen_portada": "peregrinaciones/images/jmj-roma-2027.jpg",
+      "imagenes": [
+        "peregrinaciones/images/roma-vaticano.jpg",
+        "peregrinaciones/images/roma-jovenes.jpg"
+      ],
+      "color_tema": "#F57C00"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "version": "1.0",
+  "ultima_actualizacion": "2026-02-10T10:00:00Z",
+  "canciones": [
+    {
+      "id": "cancion-dele-caminando",
+      "titulo": "Caminando juntos",
+      "artista": "La Dele Córdoba",
+      "categoria": "La Dele",
+      "letra": "Caminando juntos vamos\npor senderos de esperanza,\ncon María de la mano\nnuestra fe nunca se cansa.\n\n[Estribillo]\nLa Dele, la Dele,\njóvenes de Córdoba en camino,\nla Dele, la Dele,\nsiguiendo a Cristo peregrino.\n\nEn Guadalupe aprendimos\nque el camino es nuestra escuela,\nque no importa si caemos\nporque Dios siempre nos lleva.",
+      "audio": "canciones/audio/caminando-juntos.mp3",
+      "duracion": 245
+    },
+    {
+      "id": "cancion-hakuna-tu-presencia",
+      "titulo": "Tu presencia es todo",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Tu presencia es todo\nlo que necesito,\nquiero estar contigo\npor siempre jamás.\n\nSeñor, aquí estoy,\nrendido ante Ti,\nmi vida te doy\nquiero servirte a Ti.\n\n[Puente]\nLlena mi corazón,\ncon tu amor sin fin,\nque mi voz proclame\nque Tú vives en mí.",
+      "audio": "canciones/audio/tu-presencia-es-todo.mp3",
+      "duracion": 312
+    },
+    {
+      "id": "cancion-adoracion-aqui-estoy",
+      "titulo": "Aquí estoy Señor",
+      "artista": "Adoración Dele",
+      "categoria": "Adoración",
+      "letra": "Aquí estoy Señor,\nante tu altar,\nmi corazón se rinde\nante tu majestad.\n\nSanto, santo, santo,\nes el Señor,\nDios del universo,\netlerno amor.\n\n[Final]\nTe adoro, te alabo,\nmi Dios y Señor,\nTú eres mi todo,\nmi único amor.",
+      "audio": "canciones/audio/aqui-estoy-senor.mp3",
+      "duracion": 287
+    },
+    {
+      "id": "cancion-mariano-ave-maria",
+      "titulo": "Ave María de Guadalupe",
+      "artista": "Coro Delegación",
+      "categoria": "Mariano",
+      "letra": "Ave María de Guadalupe,\nMadre de los peregrinos,\nacompáñanos siempre\nen todos nuestros caminos.\n\n[Estribillo]\nMadre, madre querida,\na Ti nos consagramos,\nllena de gracia y vida,\npor Ti al Hijo llegamos.\n\nEn la sierra extremeña\nTu imagen nos espera,\neres nuestra pequeña\ny nuestra madre primera.",
+      "audio": "canciones/audio/ave-maria-guadalupe.mp3",
+      "duracion": 198
+    },
+    {
+      "id": "cancion-tradicional-juntos",
+      "titulo": "Juntos como hermanos",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Juntos como hermanos,\nmiembros de una Iglesia,\nvamos caminando\nal encuentro del Señor.\n\n[Estribillo]\nUn largo caminar\npor el desierto bajo el sol,\nno nos podemos olvidar:\nsomos un pueblo que busca a Dios.\n\nUnidos al rezar,\nunidos en una canción,\nviviremos nuestra fe\ncon la ayuda del Señor.",
+      "audio": "canciones/audio/juntos-como-hermanos.mp3",
+      "duracion": 225
+    },
+    {
+      "id": "cancion-hakuna-vivo-para-amarte",
+      "titulo": "Vivo para amarte",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Vivo para amarte,\nexisto para adorarte,\nrespiro solo por Ti,\nmi Dios.\n\nNada me separa\nde tu amor eterno,\nni la muerte ni la vida,\nnada.\n\n[Estribillo]\nPorque Tú me amaste primero,\nporque diste la vida por mí,\nyo te entrego todo lo que tengo,\nmi vida está rendida ante Ti.",
+      "audio": "canciones/audio/vivo-para-amarte.mp3",
+      "duracion": 268
+    },
+    {
+      "id": "cancion-dele-peregrinando",
+      "titulo": "Peregrinando a Fátima",
+      "artista": "La Dele Córdoba",
+      "categoria": "La Dele",
+      "letra": "A Fátima vamos cantando,\na ver a la Virgen María,\nlos jóvenes peregrinando\nllevamos al mundo alegría.\n\n[Estribillo]\nMadre de Fátima, escúchanos,\nque tu mensaje es verdad,\noración, penitencia y conversión,\ncamino de santidad.\n\nTres pastorcitos pequeños\nnos enseñan a rezar,\nque nunca perdamos los sueños\nde un mundo mejor lograr.",
+      "audio": "canciones/audio/peregrinando-fatima.mp3",
+      "duracion": 234
+    }
+  ]
+}
