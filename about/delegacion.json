@@ -2,9 +2,9 @@
   "version": "1.0",
   "ultima_actualizacion": "2026-02-11",
   "header": {
-    "titulo": "Delegación Diocesana de Juventud",
-    "subtitulo": "Diócesis de Córdoba, España",
-    "version_app": "1.0.0",
+    "titulo": "Delegación Diocesana de JuventudFFFF",
+    "subtitulo": "Diócesis de Córdoba, EspañaFFF",
+    "version_app": "1.0.03",
     "imagen": "about/acerca_de_delegados.png",
     "lema": "Desarrollo con Corazón para la Juventud Cordobesa"
   },
@@ -12,7 +12,7 @@
   "obispo": {
     "seccion_titulo": "Nuestro Pastorrr",
     "cargo": "Obispo de Córdobaaa",
-    "nombre": "Don Jesússsssss",
+    "nombre": "Don JesússsssssFFF",
     "icono": "ic_church"
   },
   "delegados": {
@@ -21,12 +21,12 @@
       {
         "id": "delegado-1",
         "cargo": "Delegado",
-        "nombre": "D. Álvaroaaa Fernández-Martos Yáñez"
+        "nombre": "D. Álvaroaaa Fernández-Martos YáñezFFF"
       },
       {
         "id": "delegado-2",
         "cargo": "Delegado",
-        "nombre": "D. Pablo Fernández de la Puebla Lechuga"
+        "nombre": "D. Pablo Fernández de la Puebla LechugaFFFF"
       }
     ]
   },
@@ -40,6 +40,7 @@
     "descripcion": "Acompañar a los jóvenes en su camino de fe, ofreciendo experiencias de encuentro con Dios a través de peregrinaciones, formación y comunidad."
   }
 }
+
 
 
 
