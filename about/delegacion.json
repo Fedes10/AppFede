@@ -6,17 +6,17 @@
     "subtitulo": "Diócesis de Córdoba, España",
     "version_app": "1.0.0",
     "imagen": "about/acerca_de_delegados.png",
-    "lema": "Desarrollo para la Juventud Cordobesa"
+    "lema": "Desarrollo con Corazón para la Juventud Cordobesa"
   },
   "web": "https://www.delejuventudcordoba.com/",
   "obispo": {
-    "seccion_titulo": "Nuestro Pastooor",
+    "seccion_titulo": "Nuestro Pastor",
     "cargo": "Obispo de Córdoba",
-    "nombre": "Don Jesúhhhhs",
+    "nombre": "Don Jesús",
     "icono": "ic_church"
   },
   "delegados": {
-    "seccion_titulo": "Delegaaados de Juventud",
+    "seccion_titulo": "Delegados de Juventud",
     "personas": [
       {
         "id": "delegado-1",
@@ -40,5 +40,3 @@
     "descripcion": "Acompañar a los jóvenes en su camino de fe, ofreciendo experiencias de encuentro con Dios a través de peregrinaciones, formación y comunidad."
   }
 }
-
-
