@@ -4,7 +4,7 @@
 El proyecto estaba configurado con rutas de Java hardcodeadas que no funcionaban en diferentes ordenadores.
 
 ## Solución ✅
-Utilizamos **`local.properties`** (específico de cada ordenador, NO se commitea en GitHub) + **script de setup automático**.
+Utilizamos **`local.properties`** (específico de cada ordenador, NO se commitea en GitHub) + **scripts de setup por ordenador**.
 
 ## ¿Qué hacer cuando clonas el repo en un nuevo ordenador Windows?
 
@@ -15,17 +15,39 @@ Utilizamos **`local.properties`** (específico de cada ordenador, NO se commitea
 ABRE-ESTO-Configurar-Gradle.bat
 ```
 
-El script hace automáticamente:
-- ✓ Detecta dónde está instalado Java en tu ordenador
-- ✓ Configura `local.properties` con la ruta correcta
-- ✓ Establece la variable de entorno `JAVA_HOME`
-- ✓ Limpia el caché de Gradle
+El script te pedirá que elijas:
+```
+[1] EMPRESA
+[2] CASA
+```
+
+---
+
+## En EMPRESA
+
+Escoge opción `[1]` y el script automáticamente:
+- ✓ Configura el Java de Android Studio
+- ✓ Configura el SDK de Android
+- ✓ Actualiza `local.properties` con las rutas correctas
 - ✓ Verifica que todo funciona
 
-Después simplemente ejecuta:
-```bash
-./gradlew build
+---
+
+## En CASA (Primera vez)
+
+Escoge opción `[2]` y el script te dirá qué hacer:
+
+1. Abre una terminal
+2. Ejecuta: `java -version` (para saber dónde está Java)
+3. Encuentra dónde está tu Android SDK
+4. Edita el archivo `ConfigOrdenadorCasa.bat` y rellena:
+
+```batch
+set JAVA_PATH=C:\Ruta\A\Tu\Java
+set SDK_PATH=C:\Ruta\A\Tu\Android\Sdk
 ```
+
+Luego guarda y vuelve a ejecutar el script eligiendo `[2]`
 
 ---
 
@@ -45,23 +67,13 @@ C:\Program Files\Java\jdk-21
 
 - **`gradle.properties`** ← En GitHub (configuración compartida)
 - **`local.properties`** ← NO en GitHub (configuración específica de cada PC)
-- **`local.properties.template`** ← Referencia de qué configurar
-- **`ABRE-ESTO-Configurar-Gradle.bat`** ← ⭐ ESTE (script automático para Windows)
+- **`ABRE-ESTO-Configurar-Gradle.bat`** ← ⭐ ESTE (menú principal)
+- **`ConfigOrdenadorEmpresa.bat`** ← Configuracion hardcodeada para empresa
+- **`ConfigOrdenadorCasa.bat`** ← Plantilla para rellenar en casa
 
 ## ⚠️ NO hagas commit de `local.properties`
 
 Está en `.gitignore`, así que Git la ignorará automáticamente. Cada ordenador tendrá su propia versión.
-
-## Troubleshooting
-
-**Si el script no encuentra Java:**
-- Instala Android Studio (incluye Java JDK 21)
-- O descarga JDK 21 manualmente desde: https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
-
-**Si aún tienes problemas:** 
-- Abre una terminal
-- Ejecuta: `java -version`
-- Si no funciona, instala Java primero
 
 ---
 
