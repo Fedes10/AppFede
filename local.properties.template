@@ -1,0 +1,30 @@
+## This file must *NOT* be checked into Version Control Systems,
+# as it contains information specific to your local configuration.
+#
+# Location of the SDK. This is only used by Gradle.
+# For customization when using a Version Control System, please read the
+# header note.
+
+# SDK path - Auto-configured
+# sdk.dir=/path/to/Android/Sdk
+
+# JDK/Java home - Auto-configured by setup script
+# org.gradle.java.home=/path/to/jdk
+
+# ============================================
+# SETUP INSTRUCTIONS / INSTRUCCIONES DE SETUP
+# ============================================
+#
+# En Windows:
+#   1. Hacer doble-click en "setup-gradle.bat"
+#   2. O ejecutar en PowerShell: .\setup-gradle.ps1
+#
+# En Linux/Mac:
+#   1. Ejecutar: chmod +x setup-gradle.sh && ./setup-gradle.sh
+#
+# El script hace automáticamente:
+# - Detecta dónde está instalado Java
+# - Configura esta archivo local.properties
+# - Establece la variable JAVA_HOME
+# - Limpia el caché de Gradle
+# - ¡Listo para usar!
