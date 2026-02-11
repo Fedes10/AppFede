@@ -12,6 +12,7 @@ echo.
 REM Rutas de EMPRESA (hardcodeadas)
 set JAVA_PATH=C:\Program Files\Android\Android Studio\jbr
 set SDK_PATH=C:\Users\PRACTICAS2026\AppData\Local\Android\Sdk
+set GRADLE_USER_HOME=%CD%\.gradle
 
 REM Verificar que Java existe
 if not exist "%JAVA_PATH%\bin\java.exe" (
@@ -39,12 +40,22 @@ echo Creando local.properties...
     echo org.gradle.java.home=%JAVA_PATH_FORWARD%
 ) > local.properties
 
+REM Limpiar gradle daemon
+echo.
+echo Limpiando gradle daemon...
+call gradlew.bat --stop 2>nul
+
+REM Limpiar cache global de Windows que causa problemas
+echo Limpiando cache problematico de Windows...
+rmdir /s /q "%USERPROFILE%\.gradle\caches" 2>nul
+
 echo.
 echo [OK] Configuracion de EMPRESA aplicada
 echo.
 echo Datos configurados:
 echo - Java: %JAVA_PATH%
 echo - SDK: %SDK_PATH%
+echo - Gradle Home Local: .gradle
 echo.
 echo ============================================
 echo Ahora puedes ejecutar: gradlew.bat build
