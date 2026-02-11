@@ -11,7 +11,7 @@
     "mostrar": true,
     "icono": "ic_cross",
     "frases": [
-      "\"He venido para servir, no para ser servido\"",
+      "\"He venido para servir, no para ser servidoeee\"",
       "\"Amaos los unos a los otros como yo os he amado\"",
       "\"No tengas miedo, yo estoy contigo\"",
       "\"Venid a mí todos los que estáis cansados\"",
@@ -37,7 +37,7 @@
       },
       {
         "id": "noticias",
-        "nombre": "Noticias",
+        "nombre": "Noticiaddds",
         "icono": "ic_article",
         "color": "#2196F3",
         "destino": "noticias"
@@ -68,3 +68,4 @@
     "mostrar_boton": true
   }
 }
+
