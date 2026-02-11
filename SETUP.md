@@ -4,27 +4,15 @@
 El proyecto estaba configurado con rutas de Java hardcodeadas que no funcionaban en diferentes ordenadores.
 
 ## Solución ✅
-Utilizamos **`local.properties`** (específico de cada ordenador, NO se commitea en GitHub) + **scripts de setup automático**.
+Utilizamos **`local.properties`** (específico de cada ordenador, NO se commitea en GitHub) + **script de setup automático**.
 
-## ¿Qué hacer cuando clonas el repo en un nuevo ordenador?
+## ¿Qué hacer cuando clonas el repo en un nuevo ordenador Windows?
 
-### Opción 1: Script Automático (⭐ RECOMENDADO - Lo más fácil)
+### ⭐ LO MÁS FÁCIL:
 
-**En Windows:**
-```bash
-# Solo hacer doble-click en este archivo:
-setup-gradle.bat
+**Simplemente hacer DOBLE-CLICK en:**
 ```
-
-O desde PowerShell:
-```powershell
-.\setup-gradle.ps1
-```
-
-**En Linux/Mac:**
-```bash
-chmod +x setup-gradle.sh
-./setup-gradle.sh
+ABRE-ESTO-Configurar-Gradle.bat
 ```
 
 El script hace automáticamente:
@@ -39,14 +27,7 @@ Después simplemente ejecuta:
 ./gradlew build
 ```
 
-### Opción 2: Manual
-
-Si el script no funciona, edita `local.properties` manualmente:
-
-```properties
-sdk.dir=C:\Users\TuUsuario\AppData\Local\Android\Sdk
-org.gradle.java.home=C:/Ruta/A/Tu/Java/JDK21
-```
+---
 
 ## ¿Dónde está Java en mi ordenador?
 
@@ -65,8 +46,7 @@ C:\Program Files\Java\jdk-21
 - **`gradle.properties`** ← En GitHub (configuración compartida)
 - **`local.properties`** ← NO en GitHub (configuración específica de cada PC)
 - **`local.properties.template`** ← Referencia de qué configurar
-- **`setup-gradle.bat`** ← Script automático para Windows
-- **`setup-gradle.ps1`** ← Script automático para PowerShell
+- **`ABRE-ESTO-Configurar-Gradle.bat`** ← ⭐ ESTE (script automático para Windows)
 
 ## ⚠️ NO hagas commit de `local.properties`
 
@@ -85,4 +65,4 @@ Está en `.gitignore`, así que Git la ignorará automáticamente. Cada ordenado
 
 ---
 
-¡Listo! Solo ejecuta el script una vez por ordenador y olvídate de los problemas de configuración. 🎉
+¡Listo! Solo doble-click en `ABRE-ESTO-Configurar-Gradle.bat` y olvídate de los problemas de configuración. 🎉
