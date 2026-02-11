@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "ultima_actualizacion": "2026-02-10T10:00:00Z",
+  "noticias": [
+    {
+      "id": "noticia-fatima-2025",
+      "titulo": "¡Inscripciones abiertas para Fátima 2026!",
+      "descripcion": "Ya puedes inscribirte en la peregrinación a Fátima del 20 al 22 de febrero",
+      "contenido": "La Delegación Diocesana de Juventud de Córdoba organiza una nueva edición de la Peregrinación a Fátima. Este año nos desplazaremos del 20 al 22 de febrero a Portugal para vivir una experiencia de fe única en el Santuario de Nuestra Señora de Fátima.\n\n**Información importante:**\n- Fechas: 20-22 de febrero de 2025\n- Precio: 150€ (todo incluido)\n- Edad: Mayores de 18 años\n- Inscripciones hasta: 13 de febrero\n\nEl viaje incluye transporte en autobús, alojamiento, pensión completa y todas las actividades organizadas. ¡No te quedes sin tu plaza!",
+      "imagen": "peregrinaciones/images/fatima-2025-portada.jpg",
+      "categoria": "Peregrinaciones",
+      "fecha": "2026-01-15",
+      "autor": "Delegación de Juventud"
+    },
+    {
+      "id": "noticia-vigilia-inmaculada",
+      "titulo": "Vigilia de la Inmaculada 2025",
+      "descripcion": "Celebración especial en la víspera de la fiesta de la Inmaculada Concepción",
+      "contenido": "Un año más, la juventud diocesana se reúne para celebrar la Vigilia de la Inmaculada en la Catedral de Córdoba. Una noche de oración, adoración eucarística y encuentro fraterno.\n\nLa vigilia comenzará a las 21:00h con la acogida y terminará aproximadamente a las 00:30h después de la procesión de antorchas por la ciudad.",
+      "imagen": "noticias/images/vigilia-inmaculada.jpg",
+      "categoria": "Vigilias",
+      "fecha": "2025-12-01",
+      "autor": "Delegación de Juventud"
+    },
+    {
+      "id": "noticia-guadalupe-2025",
+      "titulo": "Proceso Guadalupe XXXI",
+      "descripcion": "La peregrinación a Guadalupe celebra su edición número 31",
+      "contenido": "Este septiembre celebramos la XXXI edición de la Peregrinación a Guadalupe. Más de 500 jóvenes caminando juntos hacia el Monasterio de Guadalupe, donde la Virgen de Guadalupe nos espera.\n\nFechas confirmadas: 6-8 de septiembre de 2025\n\nPróximamente abriremos las inscripciones. ¡Estate atento a nuestras redes sociales!",
+      "imagen": "noticias/images/guadalupe-2025.jpg",
+      "categoria": "Peregrinaciones",
+      "fecha": "2025-06-15",
+      "autor": "Delegación de Juventud"
+    },
+    {
+      "id": "noticia-convivencia-voluntarios",
+      "titulo": "Convivencia de voluntarios",
+      "descripcion": "Encuentro mensual para todos los voluntarios de la Delegación",
+      "contenido": "Todos los meses nos reunimos para formarnos, compartir experiencias y crecer como equipo. Si eres voluntario o quieres empezar a colaborar con nosotros, ¡te esperamos!\n\nLugar: Casa de la Iglesia\nHora: 18:00h",
+      "imagen": "noticias/images/convivencia-voluntarios.jpg",
+      "categoria": "Formación",
+      "fecha": "2026-02-05",
+      "autor": "Delegación de Juventud"
+    }
+  ]
+}
