@@ -1,0 +1,146 @@
+{
+  "version": "1.0",
+  "ultima_actualizacion": "2026-02-12T10:00:00Z",
+  "eventos": [
+    {
+      "id": "fatima-salida-2025",
+      "titulo": "Salida Peregrinación Fátima",
+      "fecha": "2025-02-20",
+      "hora": "06:00",
+      "ubicacion": "Salida desde Córdoba",
+      "categoria": "peregrinacion",
+      "color": "#2196F3",
+      "descripcion": "Punto de encuentro: Plaza de las Tendillas. Salida del autobús a las 6:00 en punto.",
+      "peregrinacion_id": "peregrinacion-fatima-2025"
+    },
+    {
+      "id": "fatima-dia-2025",
+      "titulo": "Peregrinación Fátima",
+      "fecha": "2025-02-21",
+      "hora": "Todo el día",
+      "ubicacion": "Fátima, Portugal",
+      "categoria": "peregrinacion",
+      "color": "#2196F3",
+      "descripcion": "Jornada completa en el Santuario de Fátima.",
+      "peregrinacion_id": "peregrinacion-fatima-2025"
+    },
+    {
+      "id": "fatima-regreso-2025",
+      "titulo": "Regreso Peregrinación Fátima",
+      "fecha": "2025-02-22",
+      "hora": "18:00",
+      "ubicacion": "Llegada a Córdoba",
+      "categoria": "peregrinacion",
+      "color": "#2196F3",
+      "descripcion": "Hora estimada de llegada a Córdoba.",
+      "peregrinacion_id": "peregrinacion-fatima-2025"
+    },
+    {
+      "id": "guadalupe-salida-2025",
+      "titulo": "Salida Peregrinación Guadalupe",
+      "fecha": "2025-09-06",
+      "hora": "06:00",
+      "ubicacion": "Salida desde Córdoba",
+      "categoria": "peregrinacion",
+      "color": "#4CAF50",
+      "descripcion": "Inicio del Proceso Guadalupe XXXI",
+      "peregrinacion_id": "peregrinacion-guadalupe-2025"
+    },
+    {
+      "id": "guadalupe-dia-2025",
+      "titulo": "Peregrinación Guadalupe",
+      "fecha": "2025-09-07",
+      "hora": "Todo el día",
+      "ubicacion": "Guadalupe, Cáceres",
+      "categoria": "peregrinacion",
+      "color": "#4CAF50",
+      "descripcion": "Jornada de caminata hacia el Monasterio de Guadalupe.",
+      "peregrinacion_id": "peregrinacion-guadalupe-2025"
+    },
+    {
+      "id": "guadalupe-regreso-2025",
+      "titulo": "Llegada Guadalupe",
+      "fecha": "2025-09-08",
+      "hora": "12:00",
+      "ubicacion": "Monasterio de Guadalupe",
+      "categoria": "peregrinacion",
+      "color": "#4CAF50",
+      "descripcion": "Misa en el Monasterio y regreso a Córdoba.",
+      "peregrinacion_id": "peregrinacion-guadalupe-2025"
+    },
+    {
+      "id": "inmaculada-vigilia-2025",
+      "titulo": "Vigilia de la Inmaculada",
+      "fecha": "2025-12-07",
+      "hora": "21:00",
+      "ubicacion": "Catedral de Córdoba",
+      "categoria": "vigilia",
+      "color": "#9C27B0",
+      "descripcion": "Noche de vigilia y oración en honor a la Inmaculada.",
+      "peregrinacion_id": "peregrinacion-inmaculada-2025"
+    },
+    {
+      "id": "inmaculada-fiesta-2025",
+      "titulo": "Fiesta de la Inmaculada",
+      "fecha": "2025-12-08",
+      "hora": "Todo el día",
+      "ubicacion": "Córdoba",
+      "categoria": "fiesta",
+      "color": "#9C27B0",
+      "descripcion": "Solemnidad de la Inmaculada Concepción.",
+      "peregrinacion_id": "peregrinacion-inmaculada-2025"
+    },
+    {
+      "id": "convivencia-voluntarios-feb",
+      "titulo": "Convivencia de voluntarios",
+      "fecha": "2026-02-15",
+      "hora": "18:00",
+      "ubicacion": "Casa de la Iglesia",
+      "categoria": "formacion",
+      "color": "#FF9800",
+      "descripcion": "Encuentro mensual para voluntarios de la Delegación."
+    },
+    {
+      "id": "retiro-cuaresma-2026",
+      "titulo": "Retiro de Cuaresma",
+      "fecha": "2026-03-07",
+      "hora": "10:00",
+      "ubicacion": "Seminario de Córdoba",
+      "categoria": "retiro",
+      "color": "#795548",
+      "descripcion": "Jornada de oración y reflexión para preparar la Semana Santa."
+    }
+  ],
+  "categorias": [
+    {
+      "id": "peregrinacion",
+      "nombre": "Peregrinaciones",
+      "color": "#4CAF50"
+    },
+    {
+      "id": "vigilia",
+      "nombre": "Vigilias",
+      "color": "#9C27B0"
+    },
+    {
+      "id": "fiesta",
+      "nombre": "Fiestas",
+      "color": "#E91E63"
+    },
+    {
+      "id": "formacion",
+      "nombre": "Formación",
+      "color": "#FF9800"
+    },
+    {
+      "id": "retiro",
+      "nombre": "Retiros",
+      "color": "#795548"
+    },
+    {
+      "id": "encuentro",
+      "nombre": "Encuentros",
+      "color": "#2196F3"
+    }
+  ]
+}

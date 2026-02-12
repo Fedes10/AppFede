@@ -29,11 +29,11 @@
         "destino": "dele"
       },
       {
-        "id": "guadalupe",
-        "nombre": "Guadalupe",
-        "icono": "ic_hiking",
+        "id": "oraciones",
+        "nombre": "Oraciones",
+        "icono": "ic_book",
         "color": "#4CAF50",
-        "destino": "guadalupe"
+        "destino": "oraciones"
       },
       {
         "id": "noticias",

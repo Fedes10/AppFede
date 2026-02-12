@@ -1,0 +1,15 @@
+{
+    "schema_version": "1.0",
+    "ultima_actualizacion": "2025-01-15",
+    "versiones": {
+        "noticias": "1.0",
+        "canciones": "1.0",
+        "peregrinaciones": "1.0",
+        "eventos": "1.0",
+        "oraciones": "1.0",
+        "calendario": "1.0",
+        "home": "1.0",
+        "delegacion": "1.0",
+        "contacto": "1.0"
+    }
+}
