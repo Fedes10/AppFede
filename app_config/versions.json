@@ -3,7 +3,7 @@
     "ultima_actualizacion": "2025-01-15",
     "versiones": {
         "noticias": "1.0",
-        "canciones": "1.0",
+        "canciones": "2.0",
         "peregrinaciones": "1.0",
         "eventos": "1.0",
         "oraciones": "1.0",
@@ -13,3 +13,4 @@
         "contacto": "1.0"
     }
 }
+
