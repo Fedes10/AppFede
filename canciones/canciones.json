@@ -1,22 +1,13 @@
 {
   "version": "1.0",
-  "ultima_actualizacion": "2026-02-10T10:00:00Z",
+  "ultima_actualizacion": "2026-02-13T10:00:00Z",
   "canciones": [
-    {
-      "id": "cancion-dele-caminando",
-      "titulo": "Caminando juntos",
-      "artista": "La Dele Córdoba",
-      "categoria": "La Dele",
-      "letra": "Caminando juntos vamos\npor senderos de esperanza,\ncon María de la mano\nnuestra fe nunca se cansa.\n\n[Estribillo]\nLa Dele, la Dele,\njóvenes de Córdoba en camino,\nla Dele, la Dele,\nsiguiendo a Cristo peregrino.\n\nEn Guadalupe aprendimos\nque el camino es nuestra escuela,\nque no importa si caemos\nporque Dios siempre nos lleva.",
-      "audio": "canciones/audio/caminando-juntos.mp3",
-      "duracion": 245
-    },
     {
       "id": "hakuna-huracan",
       "titulo": "Huracán",
       "artista": "Hakuna",
       "categoria": "Hakuna",
-      "letra": "Me he hecho tantas preguntas\nIntentando entender\nMe he lanzado a buscarte\nSin saberte ver\nMe he asomado al abismo\nMe he atrevido a saltar y caer\n\n[Estribillo]\nY un huracán\nRomperá el cielo desde mi garganta\nGritándote: ¿dónde estás cuando me haces falta?\n\nY me han dado respuestas\nPero no sé qué hacer\nHe prometido seguirte\nSin entender\n\nY hay un eco en lo hondo\nQue me empuja hacia ti\nY aunque sea sin sentirte\nTe buscaré\n\n[Estribillo]\nY un huracán\nRomperá el cielo desde mi garganta\nGritándote: ¿dónde estás cuando me haces falta?\n\nY un huracán\nRomperá el cielo desde mi garganta\nGritándote: ¿dónde estás cuando me haces falta?\n\nEstoy aquí, en el silencio\nEstoy aquí, en este viento\nEstoy aquí, soy este trozo de pan\nEstoy aquí, en tu lamento\nEstoy aquí, en este eco\nEstoy aquí, soy este trozo de pan\n\n[Estribillo]\nY un huracán\nRomperá el cielo desde mi garganta\nGritándote: ¿dónde estás cuando me haces falta?\n\nY un huracán\nRomperá el cielo desde mi garganta\nGritándote: ¿dónde estás cuando me haces falta?\n\nEstoy aquí (y un huracán)\n(Romperá el cielo desde mi garganta) estoy aquí\nEstoy aquí (gritándote)\nSoy este trozo de pan (¿dónde estás cuando me haces falta?)\n\nEstoy aquí (y un huracán)\n(Romperá el cielo desde mi garganta) estoy aquí\nEstoy aquí (gritándote)\nSoy este trozo de pan (¿dónde estás cuando me haces falta?)\n\nY tu huracán\nRomperá el cielo desde mi garganta\nGritándome cuánto me haces falta",
+      "letra": "Me he hecho tantas preguntas\nIntentando entender\nMe he lanzado a buscarte\nSin saberte ver\nMe he asomado al abismo\nMe he atrevido a saltar y caer\n\n[Estribillo]\nY un huracán\nRomperá el cielo desde mi garganta\nGritándote: ¿dónde estás cuando me haces falta?\n\nY me han dado respuestas\nPero no sé qué hacer\nHe prometido seguirte\nSin entender\n\nY hay un eco en lo hondo\nQue me empuja hacia ti\nY aunque sea sin sentirte\nTe buscaré\n\nEstoy aquí, en el silencio\nEstoy aquí, en este viento\nEstoy aquí, soy este trozo de pan\nEstoy aquí, en tu lamento\nEstoy aquí, en este eco\nEstoy aquí, soy este trozo de pan",
       "audio": "canciones/audio/hakuna-huracan.mp3",
       "duracion": 312
     },
@@ -25,54 +16,1095 @@
       "titulo": "A Ti Te Alabo",
       "artista": "Hakuna",
       "categoria": "Hakuna",
-      "letra": "A ti te alabo, Señor en tu templo\nA ti te alabo con todo el firmamento\nA ti te alabo con todo lo que tú has hecho\nA ti te alabo, Padre, Hijo, amor eterno\nA ti te alabo con trompas y flautas\nA ti te alabo con tambores y danzas\nA ti te alaban criaturas y animales\nA ti te alaban las montañas y los mares\n\nA ti te alaban\nA ese ser que creó este mundo por amor\nNo lo encontraba\nNo creía que fuera posible este don\n\nUn Dios\nTodo lo que veo a mi alrededor\nGrita que aquí estás y esconde mi temor\nTodo ser que aliente a la vida al Señor y grite bien fuerte\n\n[Estribillo]\nA ti te alabo, Señor en tu templo\nA ti te alabo con todo el firmamento\nA ti te alabo con todo lo que tú has hecho\nA ti te alabo, Padre, Hijo, Amor eterno\nA ti te alabo con trombas y flautas\nA ti te alabo con tambores y danzas\nA ti te alaban criaturas y animales\nA ti te alaban las montañas y los mares\n\nA ti te alaban\nA ti te alabo aunque te escondas\nAunque yo no pueda verte a ti te alabo\nQue me salvas de la muerte a ti te alabo\nEn el silencio de un amor que ya no siente a ti te alabo\nEres mi Dios, eres mi vida, eres mi fuerte\nA ti te alabo en lo sencillo, cotidiano, indiferente\nA ti te alabo con el vivo que te busca ansiadamente\nA ti te alabo con el muerto que te espera nuevamente\nA ti te alabo eres mi Dios, eres mi vida\n\nA ti te alabo\nA ti te alabo\nA ti te alabo\nA ti te alabo",
-      "audio": "canciones/audio/1-Hakuna-Huracán.mp3",
+      "letra": "A ti te alabo, Señor en tu templo\nA ti te alabo con todo el firmamento\nA ti te alabo con todo lo que tú has hecho\nA ti te alabo, Padre, Hijo, amor eterno\nA ti te alabo con trompas y flautas\nA ti te alabo con tambores y danzas\nA ti te alaban criaturas y animales\nA ti te alaban las montañas y los mares\n\nA ti te alaban\nA ese ser que creó este mundo por amor\nNo lo encontraba\nNo creía que fuera posible este don\n\nUn Dios\nTodo lo que veo a mi alrededor\nGrita que aquí estás y esconde mi temor\nTodo ser que aliente a la vida al Señor y grite bien fuerte",
+      "audio": "canciones/audio/hakuna-a-ti-te-alabo.mp3",
       "duracion": 312
     },
     {
-      "id": "cancion-adoracion-aqui-estoy",
-      "titulo": "Aquí estoy Señor",
-      "artista": "Adoración Dele",
-      "categoria": "Adoración",
-      "letra": "Aquí estoy Señor,\nante tu altar,\nmi corazón se rinde\nante tu majestad.\n\nSanto, santo, santo,\nes el Señor,\nDios del universo,\netlerno amor.\n\n[Final]\nTe adoro, te alabo,\nmi Dios y Señor,\nTú eres mi todo,\nmi único amor.",
-      "audio": "canciones/audio/aqui-estoy-senor.mp3",
-      "duracion": 287
-    },
-    {
-      "id": "cancion-mariano-ave-maria",
-      "titulo": "Ave María de Guadalupe",
-      "artista": "Coro Delegación",
-      "categoria": "Mariano",
-      "letra": "Ave María de Guadalupe,\nMadre de los peregrinos,\nacompáñanos siempre\nen todos nuestros caminos.\n\n[Estribillo]\nMadre, madre querida,\na Ti nos consagramos,\nllena de gracia y vida,\npor Ti al Hijo llegamos.\n\nEn la sierra extremeña\nTu imagen nos espera,\neres nuestra pequeña\ny nuestra madre primera.",
-      "audio": "canciones/audio/ave-maria-guadalupe.mp3",
-      "duracion": 198
-    },
-    {
-      "id": "cancion-tradicional-juntos",
-      "titulo": "Juntos como hermanos",
-      "artista": "Tradicional",
-      "categoria": "Tradicional",
-      "letra": "Juntos como hermanos,\nmiembros de una Iglesia,\nvamos caminando\nal encuentro del Señor.\n\n[Estribillo]\nUn largo caminar\npor el desierto bajo el sol,\nno nos podemos olvidar:\nsomos un pueblo que busca a Dios.\n\nUnidos al rezar,\nunidos en una canción,\nviviremos nuestra fe\ncon la ayuda del Señor.",
-      "audio": "canciones/audio/juntos-como-hermanos.mp3",
-      "duracion": 225
-    },
-    {
-      "id": "cancion-hakuna-vivo-para-amarte",
-      "titulo": "Vivo para amarte",
-      "artista": "Hakuna",
-      "categoria": "Hakuna",
-      "letra": "Vivo para amarte,\nexisto para adorarte,\nrespiro solo por Ti,\nmi Dios.\n\nNada me separa\nde tu amor eterno,\nni la muerte ni la vida,\nnada.\n\n[Estribillo]\nPorque Tú me amaste primero,\nporque diste la vida por mí,\nyo te entrego todo lo que tengo,\nmi vida está rendida ante Ti.",
-      "audio": "canciones/audio/vivo-para-amarte.mp3",
-      "duracion": 268
-    },
-    {
-      "id": "cancion-dele-peregrinando",
-      "titulo": "Peregrinando a Fátima",
+      "id": "dele-como-tus-brazos",
+      "titulo": "Como tus brazos",
       "artista": "La Dele Córdoba",
       "categoria": "La Dele",
-      "letra": "A Fátima vamos cantando,\na ver a la Virgen María,\nlos jóvenes peregrinando\nllevamos al mundo alegría.\n\n[Estribillo]\nMadre de Fátima, escúchanos,\nque tu mensaje es verdad,\noración, penitencia y conversión,\ncamino de santidad.\n\nTres pastorcitos pequeños\nnos enseñan a rezar,\nque nunca perdamos los sueños\nde un mundo mejor lograr.",
-      "audio": "canciones/audio/peregrinando-fatima.mp3",
-      "duracion": 234
+      "letra": "Aquí estamos hoy ante Ti, Tú nos has llamado a caminar. Dejamos atrás nuestra comodidad y nuestro hogar. De ti nos queremos fiar, tantas pruebas nos has dado ya. Cambia nuestro corazón, por tus senderos llévanos. EL CAMINO NO LO HAREMOS SÓLOS, CON NOSOTROS CAMINARÁS. JUNTO A TI SEREMOS COMO TUS BRAZOS, ABIERTOS A LA HUMANIDAD. Y CUANDO EL ANDAR SE NOS HAGA DURO, CON NOSOTROS SIEMPRE ESTARÁS. LLEVAREMOS A TODOS TU MENSAJE, ANUNCIO DE PAZ Y DE AMOR. El Espíritu que nos das, dentro de nosotros fuego es. Nuestra guía Él será y su presencia nuestra paz. Es testigo de la verdad, y de la justicia defensor. Nos enseñará a servir, a bendecir y a perdonar.",
+      "audio": "canciones/audio/como-tus-brazos.mp3",
+      "duracion": 210
+    },
+    {
+      "id": "tradicional-dios-esta-aqui",
+      "titulo": "Dios está aquí",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "DIOS ESTÁ AQUÍ, TAN CIERTO COMO EL AIRE QUE RESPIRO, TAN CIERTO COMO LA MAÑANA SE LEVANTA, TAN CIERTO COMO QUE ESTE CANTO LO PUEDES OÍR. Lo puedes sentir moviéndose entre los que aman. Lo puedes oír, cantando con nosotros aquí. Lo puedes llevar cuando por esa puerta salgas. Lo puedes guardar muy dentro de tu corazón.",
+      "audio": "canciones/audio/dios-esta-aqui.mp3",
+      "duracion": 180
+    },
+    {
+      "id": "tradicional-senor-reunido",
+      "titulo": "El Señor nos ha reunido junto a Él",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "EL SEÑOR NOS HA REUNIDO JUNTO A ÉL, EL SEÑOR NOS HA INVITADO A ESTAR CON ÉL. EN SU MESA HAY AMOR, LA PROMESA DEL PERDÓN, Y EN EL VINO Y PAN, SU CORAZÓN. Cuando, Señor, tu voz, llega en silencio a mí, y mis hermanos me hablan de Ti, sé que a mi lado estás, te sientas junto a mí, acoges mi vida y mi oración.",
+      "audio": "canciones/audio/senor-reunido.mp3",
+      "duracion": 195
+    },
+    {
+      "id": "adoracion-hay-una-uncion",
+      "titulo": "Hay una unción",
+      "artista": "Adoración Dele",
+      "categoria": "Adoración",
+      "letra": "Hay una unción aquí, cayendo sobre mí, mudándome, cambiando mi ser. Mi espíritu y mi alma se están llenando, con el poder del Espíritu Santo, mi vida nunca más será igual.",
+      "audio": "canciones/audio/hay-una-uncion.mp3",
+      "duracion": 150
+    },
+    {
+      "id": "tradicional-iglesia-peregrina",
+      "titulo": "Iglesia peregrina",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Todos unidos formando un solo cuerpo, un pueblo que en la Pascua nació, miembros de Cristo en sangre redimidos, Iglesia peregrina de Dios. Vive en nosotros la fuerza del Espíritu, que el Hijo desde el Padre envió. Él nos empuja, nos guía y alimenta, Iglesia peregrina de Dios. SOMOS EN LA TIERRA SEMILLA DE OTRO REINO, SOMOS TESTIMONIO DE AMOR, PAZ PARA LAS GUERRAS Y LUZ ENTRE LAS SOMBRAS, IGLESIA PEREGRINA DE DIOS.",
+      "audio": "canciones/audio/iglesia-peregrina.mp3",
+      "duracion": 240
+    },
+    {
+      "id": "tradicional-jesus-entre-nosotros",
+      "titulo": "Jesús está entre nosotros",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "JESÚS ESTÁ ENTRE NOSOTROS, ÉL VIVE HOY Y SU ESPÍRITU A TODOS DA. JESÚS, RAZÓN DE NUESTRA VIDA, ES EL SEÑOR, NOS REÚNE EN PUEBLO DE AMOR. Cambia nuestras vidas con tu fuerza. Guárdanos por siempre en tu presencia. Tú eres verdad, Tú eres la paz. Rompe las cadenas que nos atan. llénanos de gracia en tu palabra. Gracias, Señor, gracias, Salvador. Nuestras existencias hoy te alaban. Nuestros corazones te dan gracias. Tú eres amor, eres canción.",
+      "audio": "canciones/audio/jesus-entre-nosotros.mp3",
+      "duracion": 210
+    },
+    {
+      "id": "adoracion-llename-espiritu",
+      "titulo": "Lléname con tu espíritu",
+      "artista": "Adoración Dele",
+      "categoria": "Adoración",
+      "letra": "Te espero Señor, acude en mi auxilio. Hazte presente, llena mi vida de Ti. Escucha mi voz, que grita tu nombre, sin Ti no soy nada, te necesito para vivir. LLÉNAME CON TU ESPÍRITU, DAME TU PAZ. ANIMA MI VIDA A SER ALGO MÁS, ENSÉÑAME A AMAR. LLÉNAME CON TU ESPÍRITU, DAME TU LUZ. QUIERO SER LIBRE, SER TU TESTIGO, AMIGO JESÚS. Es vano mi afán, de nada me sirve decir que en Ti creo, que Tú eres mi Dios si no tengo amor. Escribe tu carta en mi corazón. Construye mi casa, que no sea inútil mi esfuerzo, Señor.",
+      "audio": "canciones/audio/llename-espiritu.mp3",
+      "duracion": 230
+    },
+    {
+      "id": "dele-otro-lugar",
+      "titulo": "Otro lugar, un mismo corazón",
+      "artista": "La Dele Córdoba",
+      "categoria": "La Dele",
+      "letra": "YA NO HAY FRONTERAS RAZAS NI NACIÓN, OTRO LUGAR UN MISMO CORAZÓN. SI ES CRISTO QUIÉN ENVÍA, NO HAY TEMOR. REZA, SUEÑA, CANTA, OTRO LUGAR, UN MISMO CORAZÓN. Notas, del mismo cantar. Pasos, del mismo caminar. Distintos, en un mismo latir. Unidos, en un mismo sentir. Y así vivir. Es el corazón Cristo el que nos une a ti y a mi. Os convoca y os envía, para anunciar la fuerza está en la unidad. Nos guía, una misma luz. Cargamos, unos con otros la misma Cruz. Nuestra fuerza, es Cristo Jesús. Con María, Hace mi cielo aún más azul. Si a la mies le falta obreros, ¿quién nos impide a ti y a mí? Ser los nuevos misioneros que anunciarán: Cristo Camino, Vida y Verdad.",
+      "audio": "canciones/audio/otro-lugar-corazon.mp3",
+      "duracion": 260
+    },
+    {
+      "id": "tradicional-que-alegria",
+      "titulo": "Que alegría cuando me dijeron",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "QUE ALEGRÍA CUANDO ME DIJERON: VAMOS A LA CASA DEL SEÑOR; YA ESTÁN PISANDO NUESTROS PIES, TUS UMBRALES, JERUSALÉN. Jerusalén está fundada como ciudad bien compacta, halla suben las tribus las tribus del Señor. Según la costumbre de Israel a celebrar el Nombre del Señor, en ella están los tribunales de justicia; en el palacio de David. Desead la paz a Jerusalén, vivan seguros los que te aman; haya paz dentro de tus muros, en tus palacios seguridad.",
+      "audio": "canciones/audio/que-alegria.mp3",
+      "duracion": 180
+    },
+    {
+      "id": "dele-resucitar",
+      "titulo": "Resucitar (Jesús Cabello)",
+      "artista": "Jesús Cabello",
+      "categoria": "La Dele",
+      "letra": "Al final, cuando todo esto acabe, volverás revestido de grandeza. Tu poder derramará el amor por cada rincón de la Tierra. Tu presencia alegrará la Creación que esperaba tu promesa. DE RESUCITAR A TU IMAGEN, SER TAN LIBRES COMO EL AIRE. RESUCITAR POR TU SANGRE, RENACIDOS PARA AMARTE. VIVIREMOS POR FIN DE VERDAD CONGREGADOS POR UN MISMO PADRE. REINAREMOS CONTIGO EN TU PAZ PARA ADORARTE EN LA ETERNIDAD. Al final, cuando todo esto acabe, resonará la Verdad en tus palabras. Hasta el cielo temblará de emoción con la luz de tu mirada. Las semillas que murieron al sol tendrán vida renovada.",
+      "audio": "canciones/audio/resucitar.mp3",
+      "duracion": 245
+    },
+    {
+      "id": "tradicional-trinidad-santa",
+      "titulo": "Trinidad santa",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "TRINIDAD SANTA, UN SOLO DIOS, TÚ, SEÑOR. En el nombre del Padre, del Espíritu y del Hijo, aquí estamos reunidos para alabar tu Nombre siempre, y recibir tu amor.",
+      "audio": "canciones/audio/trinidad-santa.mp3",
+      "duracion": 120
+    },
+    {
+      "id": "tradicional-vine-alabar",
+      "titulo": "Vine a alabar a Dios",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "VINE A ALABAR A DIOS, VINE A ALABAR A DIOS, VINE A ALABAR SU NOMBRE, VINE A ALABAR A DIOS. Él vino a mi vida en un día muy especial. Cambió mi corazón en un nuevo corazón. Y ésta es la razón por la que digo que: Vine a alabar a Dios.",
+      "audio": "canciones/audio/vine-alabar.mp3",
+      "duracion": 160
+    },
+    {
+      "id": "tradicional-viva-cristo-rey",
+      "titulo": "Viva Cristo Rey",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Un grito de guerra se escucha en la faz de la Tierra y en todo lugar. Los prestos guerreros empuñan su espada y se enlistan para pelear. Para eso han sido entrenados, defenderán la verdad, y no les será arrebatado el fuego que en su sangre está. VIVA CRISTO REY, VIVA CRISTO REY. EL GRITO DE GUERRA QUE ENCIENDE LA TIERRA. VIVA CRISTO REY, NUESTRO SOBERANO SEÑOR, NUESTRO CAPITÁN Y CAMPEÓN, PELEAR POR ÉL, ES TODO UN HONOR. Sabemos que esta batalla no es fácil y muchos se acobardarán, y bajo los dardos de nuestro enemigo, sin duda perecerán. Yo tendré mi espada en alto como la usa mi Señor. A Él nada lo ha derrotado, su fuerza es la de Dios. No conocemos mayor alegría, no existe más honroso afán, que con mis hermanos estar en la línea y juntos la vida entregar a Él que merece la gloria, y nos reclutó por amor. Ante Él las rodillas se doblan y se postra el corazón.",
+      "audio": "canciones/audio/viva-cristo-rey.mp3",
+      "duracion": 280
+    },
+    {
+      "id": "adoracion-y-alabandote",
+      "titulo": "Y alabándote",
+      "artista": "Adoración Dele",
+      "categoria": "Adoración",
+      "letra": "Cómo podré agradecer tanta bendición? ¿Cómo podré responder a tu amor? Levantando mis manos, Señor, declarando que Tú eres Dios y dejándome llevar por el soplo de tu amor. Y ALABÁNDOTE, Y ALABÁNDOTE, Y ALABÁNDOTE SEÑOR, MI DIOS. Quiero adorarte Señor, desde el corazón, y descalzarme ante ti, Santo Dios. Tu perfume me inunda, Señor, tu presencia está dentro de mí y tu gracia se derrama por todo este lugar.",
+      "audio": "canciones/audio/y-alabandote.mp3",
+      "duracion": 220
+    },
+    {
+      "id": "tradicional-yendo-contigo",
+      "titulo": "Yendo contigo",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Yendo contigo, nada me inquieta, marcho con paz y fuerza. Yendo contigo todo se espera cada mañana es nueva.",
+      "audio": "canciones/audio/yendo-contigo.mp3",
+      "duracion": 140
+    },
+    {
+      "id": "tradicional-kyrie",
+      "titulo": "Kyrie",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Kyrie, Kyrie eleison. Christie, Christie eleison. Kyrie, Kyrie eleison.",
+      "audio": "canciones/audio/kyrie.mp3",
+      "duracion": 90
+    },
+    {
+      "id": "tradicional-kyrie-jpj",
+      "titulo": "Kyrie JPJ",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Kyrie eleison, Kyrie eleison, Kyrie eleison. Christie eleison, Christie eleison, Christie eleison. Kyrie eleison, Kyrie eleison, Kyrie eleison.",
+      "audio": "canciones/audio/kyrie-jpj.mp3",
+      "duracion": 100
+    },
+    {
+      "id": "tradicional-ten-piedad",
+      "titulo": "Señor ten piedad",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Señor, ten piedad de nosotros. Cristo, ten piedad de nosotros. Señor, ten piedad de nosotros.",
+      "audio": "canciones/audio/ten-piedad.mp3",
+      "duracion": 80
+    },
+    {
+      "id": "tradicional-aleluya-tierra",
+      "titulo": "Aleluya de la tierra",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Aleluya cantará, quién perdió la esperanza, y la tierra sonreirá. Aleluya.",
+      "audio": "canciones/audio/aleluya-tierra.mp3",
+      "duracion": 110
+    },
+    {
+      "id": "tradicional-aleluya-taize",
+      "titulo": "Aleluya (Taizé)",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Aleluya, alelu aleluya, aleluya, aleluya.",
+      "audio": "canciones/audio/aleluya-taize.mp3",
+      "duracion": 120
+    },
+    {
+      "id": "tradicional-aleluya-san-francisco",
+      "titulo": "Aleluya (San Francisco)",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "ALELUYA, ALELUYA, ALELUYA, ALELUYA. Alégrate, llena de gracia, el Señor es contigo. Bendita tú, entre las mujeres, Santa Madre de Dios.",
+      "audio": "canciones/audio/aleluya-san-francisco.mp3",
+      "duracion": 130
+    },
+    {
+      "id": "tradicional-aleluya-cohen",
+      "titulo": "Aleluya (Leonard Cohen)",
+      "artista": "Leonard Cohen",
+      "categoria": "Tradicional",
+      "letra": "Ya no hay más miedo ni temor, no quedan penas, solo amor, porque por nosotros Él murió. Hoy la esperanza abierta está, mi corazón quiere cantar, por eso mi alma grita aleluya. ALELUYA, ALELUYA, ALELUYA, ALELUYA.",
+      "audio": "canciones/audio/aleluya-cohen.mp3",
+      "duracion": 190
+    },
+    {
+      "id": "tradicional-canta-aleluya",
+      "titulo": "Canta aleluya",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Canta aleluya al Señor canta aleluya al Señor. Canta aleluya, Canta aleluya, canta aleluya al Señor.",
+      "audio": "canciones/audio/canta-aleluya.mp3",
+      "duracion": 100
+    },
+    {
+      "id": "tradicional-dios-nos-amo",
+      "titulo": "El Señor Dios nos amó",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "El Señor Dios nos amó como nadie amó jamás. Él nos guía como estrella cuando no existe la luz; Él nos da todo su amor, mientras la fracción del pan, es el pan de la unidad, el pan de Dios. ES MI CUERPO, TOMAD Y COMED. ESTA ES MI SANGRE, TOMAD Y BEBED, PUES YO SOY LA VIDA, YO SOY EL AMOR. OH SEÑOR, CONDÚCENOS HACIA TU AMOR. Sus paisanos le creían hijo de un trabajador. Como todos, Él también ganó el pan con su sudor, y conoce la fatiga y el dolor. El Señor Dios nos amó como nadie amó jamás. Él reúne a los hombres y les da a vivir su amor. Los cristianos, todos ya, miembros de su Cuerpo son, nadie puede separarlos de su amor.",
+      "audio": "canciones/audio/dios-nos-amo.mp3",
+      "duracion": 250
+    },
+    {
+      "id": "tradicional-entre-tus-manos",
+      "titulo": "Entre tus manos",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "ENTRE TUS MANOS ESTÁ MI VIDA, SEÑOR. ENTRE TUS MANOS PONGO MI EXISTIR. HAY QUE MORIR, PARA VIVIR. ENTRE TUS MANOS CONFÍO MI SER. Si el grano de trigo no muere, si no muere solo quedará, pero si muere en abundancia dará un fruto nuevo que no morirá.",
+      "audio": "canciones/audio/entre-tus-manos.mp3",
+      "duracion": 210
+    },
+    {
+      "id": "tradicional-mi-ofrenda",
+      "titulo": "Mi ofrenda",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Quisiera ofrecerte unas humildes cosas que, aunque sean pocas, lo son todo para mí. Te ofrezco cariño, te ofrezco mis manos, te ofrezco el orgullo de sentirme hoy a tu lado. Te ofrezco este vino, te ofrezco este grano que siembre en tu campo un amor entre hermanos. Ya no tengo nada, no poseo nada más, pero todo es tuyo, es tuyo hasta el final. Te ofrezco mi vida, mi bien más preciado, que no vale nada si Tú no estás a mi lado.",
+      "audio": "canciones/audio/mi-ofrenda.mp3",
+      "duracion": 195
+    },
+    {
+      "id": "tradicional-no-podemos-caminar",
+      "titulo": "No podemos caminar",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "NO PODEMOS CAMINAR CON HAMBRE BAJO EL SOL, DANOS SIEMPRE EL MISMO PAN: TU CUERPO Y SANGRE, SEÑOR. Comamos todos de este Pan, el Pan de la unidad. En un cuerpo nos unió el Señor, por medio del amor. Señor, yo tengo sed de Ti, sediento estoy de Dios; pero pronto llegaré a ver el rostro del Señor. Por el desierto el pueblo va cantando su dolor; en la noche brillará tu luz, nos guía la verdad.",
+      "audio": "canciones/audio/no-podemos-caminar.mp3",
+      "duracion": 210
+    },
+    {
+      "id": "tradicional-ofrece-tu-vida",
+      "titulo": "Ofrece tu vida",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Una noche de sudor, en una barca en alta mar con el primer rayo de sol, ves tus redes nada hay y la voz que dentro te habla, otro mar te mostrará al corazón de cada hombre, tus redes arrojarás. OFRECE TU VIDA, COMO MARÍA, AL PIE DE LA CRUZ Y SERÁS, SIERVO DE CADA HOMBRE, SIERVO POR AMOR SACERDOTE DE LA HUMANIDAD. Avanzabas en silencio, entre lágrimas y surcos, esperando que, en la tierra, su semilla se haga fruto. Hoy tu casa es una fiesta, porque el trigo ondea ya, ha madurado bajo el sol, ya lo puedes cosechar.",
+      "audio": "canciones/audio/ofrece-tu-vida.mp3",
+      "duracion": 240
+    },
+    {
+      "id": "tradicional-ofrenda-amor",
+      "titulo": "Ofrenda de amor",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Por los niños que empiezan la vida, por los hombres sin techo ni hogar, por los pueblos que sufren la guerra, te ofrecemos el vino y el pan. PAN Y VINO SOBRE EL ALTAR SON OFRENDAS DE AMOR. PAN Y VINO SERÁN DESPUÉS TU CUERPO Y SANGRE SEÑOR. Por los hombres que viven unidos, por los hombres que buscan la paz, por los pueblos que no te conocen, te ofrecemos el vino y el pan. Por aquellos a quienes queremos, por nosotros y nuestra amistad, por los vivos y por los difuntos, te ofrecemos el vino y el pan.",
+      "audio": "canciones/audio/ofrenda-amor.mp3",
+      "duracion": 180
+    },
+    {
+      "id": "tradicional-que-te-puedo-dar",
+      "titulo": "Qué te puedo dar",
+      "artista": "Tradicional",
+      "categoria": "Tradicional",
+      "letra": "Que te puedo dar, que no me hayas dado Tú. Que te puedo decir que no me hayas dicho Tú. Que puedo hacer por Ti, si yo no puedo hacer nada, si yo no puedo hacer nada si no es por Ti.",
+      "audio": "canciones/audio/que-te-puedo-dar.mp3",
+      "duracion": 150
+    },
+    {
+      "id": "ofertorio-sabed-que-vendra",
+      "titulo": "Sabed que vendrá",
+      "artista": "Tradicional",
+      "categoria": "Ofertorio",
+      "letra": "SABED QUE VENDRÁ, SABED QUE VENDRÁ EL SEÑOR. SABED QUE VENDRÁ, SABED QUE VENDRÁ EL SEÑOR. Por los senderos de nuestra esperanza, por los caminos que van al Señor. Sabed que vendrá el Señor. Sabed que vendrá el Señor. Por el dolor de un mundo que sufre, por la amargura de un pueblo que espera. Sabed que vendrá el Señor. Sabed que vendrá el Señor.",
+      "pagina": 37
+    },
+    {
+      "id": "ofertorio-te-conocimos",
+      "titulo": "Te conocimos al partir el pan",
+      "artista": "Tradicional",
+      "categoria": "Ofertorio",
+      "letra": "Andando por el camino te tropezamos, Señor, te hiciste el encontradizo nos diste conversación, tenían tus palabras fuerza de vida y amor, ponían esperanza y fuego en el corazón. TE CONOCIMOS, SEÑOR, AL PARTIR EL PAN, TU NOS CONOCES, SEÑOR, AL PARTIR EL PAN. Llegando a la encrucijada Tú proseguías, Señor, te dimos nuestra posada, techo, comida y calor, sentados como amigos a compartir el cenar, allí te conocimos al repartirnos el pan. Andando por los caminos te tropezamos, Señor, en todos los peregrinos que necesitan amor; esclavos y oprimidos que buscan la libertad, hambrientos, desvalidos, a quienes damos el pan[cite: 4866, 4867, 4868, 4869, 4870].",
+      "pagina": 38
+    },
+    {
+      "id": "ofertorio-te-presentamos",
+      "titulo": "Te presentamos el vino y el pan",
+      "artista": "Tradicional",
+      "categoria": "Ofertorio",
+      "letra": "TE PRESENTAMOS EL VINO Y EL PAN BENDITO SEAS POR SIEMPRE SEÑOR. Bendito seas Señor por este Pan que nos diste, fruto de la tierra y del trabajo de los hombres. Bendito seas Señor, el vino Tú nos lo diste, fruto de la vid y del trabajo de los hombres[cite: 4871, 4872, 4873].",
+      "pagina": 38
+    },
+    {
+      "id": "ofertorio-una-espiga",
+      "titulo": "Una espiga dorada por el sol",
+      "artista": "Tradicional",
+      "categoria": "Ofertorio",
+      "letra": "UNA ESPIGA DORADA POR EL SOL, EL RACIMO QUE CORTA EL VIÑADOR, SE CONVIERTEN AHORA EN PAN Y VINO DE AMOR, EN EL CUERPO Y LA SANGRE DEL SEÑOR. Compartimos la misma comunión, somos trigo del mismo sembrador, un molino, la vida, nos tritura con dolor, Dios nos hace Eucaristía en el amor. Como granos que han hecho un mismo pan, como notas que tejen un cantar, como gotas de agua que se funden en el mar, los cristianos un cuerpo formarán. A la mesa de Dios se sentarán, como hijos su Pan comulgarán, una misma esperanza caminando cantarán, en la vida como hermanos se amarán[cite: 4874, 4875, 4876, 4877].",
+      "pagina": 39
+    },
+    {
+      "id": "santo-luna",
+      "titulo": "Santo (Luna)",
+      "artista": "Luna",
+      "categoria": "Santo",
+      "letra": "Santo, santo, santo es el Señor, Dios del universo. Llenos están el cielo y la tierra de tu gloria hosanna. HOSANNA, HOSANNA, HOSANNA EN EL CIELO. Bendito el que viene en nombre del Señor, Hosanna en el cielo, hosanna[cite: 4878, 4879, 4880].",
+      "pagina": 43
+    },
+    {
+      "id": "santo-palazon",
+      "titulo": "Santo (Palazón)",
+      "artista": "Palazón",
+      "categoria": "Santo",
+      "letra": "Santo, Santo, Santo, Santo es el Señor. Santo es el Señor, Dios del universo. Llenos están el cielo y la tierra de tu gloria. Hosanna, hosanna, hosanna en el cielo. Bendito el que viene en nombre del Señor[cite: 4881].",
+      "pagina": 43
+    },
+    {
+      "id": "santo-jesuita",
+      "titulo": "Santo jesuita",
+      "artista": "Jesuita",
+      "categoria": "Santo",
+      "letra": "SANTO, SANTO, SANTO, SANTO ES EL SEÑOR, DIOS DEL UNIVERSO, DIOS DEL UNIVERSO. Llenos están el cielo y la tierra de tu gloria. Hosanna en el cielo, hosanna en cielo. Bendito El que viene en nombre del Señor[cite: 4883, 4884, 4885, 4886, 4887].",
+      "pagina": 44
+    },
+    {
+      "id": "santo-beatles",
+      "titulo": "Santo (Beatles)",
+      "artista": "Beatles (Versión)",
+      "categoria": "Santo",
+      "letra": "SANTO, SANTO, SANTO, SANTO, SANTO ES EL SEÑOR, LLENOS ESTÁN EL CIELO Y TIERRA DE TU AMOR. Bendito el que viene en el nombre, el que viene en el nombre del Señor, del Señor[cite: 4888, 4889].",
+      "pagina": 44
+    },
+    {
+      "id": "santo-senor-santo",
+      "titulo": "Señor Santo",
+      "artista": "Tradicional",
+      "categoria": "Santo",
+      "letra": "SANTO, SANTO, SANTO ES EL SEÑOR, DIOS DEL UNIVERSO. EL CIELO Y LA TIERRA ESTÁN LLENOS DE TU GLORIA. HOSANNA EN EL CIELO. Bendito el que viene en nombre del Señor. Hosanna en el cielo[cite: 4890].",
+      "pagina": 45
+    },
+    {
+      "id": "cordero-i",
+      "titulo": "Cordero de Dios I",
+      "artista": "Tradicional",
+      "categoria": "Cordero de Dios",
+      "letra": "Cordero de Dios que quitas el pecado del mundo, ten piedad de nosotros. Cordero de Dios que quitas el pecado del mundo, ten piedad de nosotros. Cordero de Dios que quitas el pecado del mundo, danos la paz[cite: 4890].",
+      "pagina": 49
+    },
+    {
+      "id": "cordero-ii",
+      "titulo": "Cordero de Dios II",
+      "artista": "Tradicional",
+      "categoria": "Cordero de Dios",
+      "letra": "Cordero de Dios que quitas el pecado del mundo, ten piedad de nosotros. (Bis) Cordero de Dios que quitas el pecado del mundo, danos la paz[cite: 4890].",
+      "pagina": 49
+    },
+    {
+      "id": "cordero-iii",
+      "titulo": "Cordero de Dios III",
+      "artista": "Tradicional",
+      "categoria": "Cordero de Dios",
+      "letra": "Oh Cordero de Dios que quitas el pecado del mundo, ten piedad de nosotros. Oh Cordero de Dios que quitas el pecado del mundo, ten piedad de nosotros. Oh Cordero de Dios que quitas el pecado del mundo, danos la paz[cite: 4890].",
+      "pagina": 49
+    },
+    {
+      "id": "comunion-alma-misionera",
+      "titulo": "Alma misionera",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Señor, toma mi vida nueva antes de que la espera desgaste años en mí. Estoy dispuesto a lo que quieras, no importa lo que sea, Tú llámame a servir. LLÉVAME DONDE LOS HOMBRES NECESITEN TUS PALABRAS, NECESITEN MIS GANAS DE VIVIR, DONDE FALTE LA ESPERANZA DONDE TODO SEA TRISTE POR NO SABER DE TI. Te doy mi corazón sincero para gritar sin miedo lo hermoso que es tu amor. Tendré tus manos sin cansancio, tu historia entre mis labios y fuerza en la oración. Y así en marcha iré cantando, por calles predicando lo grande que eres Señor. Señor, tengo alma misionera, condúceme a la tierra que tenga sed de Dios[cite: 4951].",
+      "pagina": 53
+    },
+    {
+      "id": "comunion-bendigamos-al-senor",
+      "titulo": "Bendigamos al Señor",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Bendigamos al Señor que nos une en su amor. Bendigamos al Señor que nos une en su amor. En el vino y el pan, Él se quiere entregar. En el vino y el pan, Él se quiere entregar. TODOS UNIDOS EN UN SOLO CUERPO, TODOS UNIDOS EN UNA ORACIÓN. TODOS UNIDOS EN UN SOLO CUERPO, TODOS UNIDOS EN UNA ORACIÓN. Por los hombres que sufren y buscan la paz. Por los hombres que sufren y buscan la paz. Por el mundo que espera encontrar la verdad. Por el mundo que espera encontrar la verdad.",
+      "pagina": 54
+    },
+    {
+      "id": "comunion-bienaventuranzas",
+      "titulo": "Bienaventuranzas",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Felices los que tienen alma de pobres, porque de ellos es el Reino de Dios. Felices los que lloran, porque serán consolados. ALEGRÍA, ALEGRÍA EN EL SEÑOR. Felices los humildes, porque heredarán la tierra. Felices los que tienen hambre y sed de justicia, porque serán saciados. Felices los misericordiosos, porque obtendrán misericordia. Felices los limpios de corazón, porque ellos verán a Dios.",
+      "pagina": 55
+    },
+    {
+      "id": "comunion-como-padre",
+      "titulo": "Como el Padre me amó",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "COMO EL PADRE ME AMÓ, YO OS HE AMADO. PERMANECED EN MI AMOR, PERMANECED EN MI AMOR. Si guardáis mis palabras y como hermanos os amáis, compartiréis con alegría el don de la fraternidad. Si os ponéis en camino siguiendo siempre la verdad, fruto daréis en abundancia mi amor se manifestará. No veréis amor tan grande como aquel que os entregué. No hay amor como el de aquel que su vida entrega por amor.",
+      "pagina": 56
+    },
+    {
+      "id": "comunion-consolad",
+      "titulo": "Consolad",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Consolad a mi pueblo dice el Señor, hablad al corazón del hombre. Gritad que mi amor ha vencido, que el pecado está perdonado. PREPARAD EL CAMINO QUE LLEGA EL SEÑOR. EN EL DESIERTO VOZ QUE CLAMA: PREPARAD EL CAMINO QUE LLEGA EL SEÑOR. Súbete a un monte elevado, tú que traes la buena noticia. Alza fuerte la voz, no temas, di a los pueblos: aquí está tu Dios.",
+      "pagina": 57
+    },
+    {
+      "id": "comunion-cristo-mi-centro",
+      "titulo": "Cristo mi centro",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Cristo es mi centro, mi roca y mi paz. Él es el guía que me enseñará. Camino de vida, camino de luz. No tengo miedo pues conmigo vas Tú. TÚ ERES MI CENTRO, MI TODO SEÑOR. EN TI DESCANSA MI POBRE CORAZÓN. SI TÚ ME FALTARAS NO SÉ QUE HARÍA YO. TÚ ERES MI CENTRO, MI TODO SEÑOR. En mis momentos de duda y dolor, busco refugio en tu gran amor. Tú me levantas, me das tu perdón. Eres el dueño de mi corazón.",
+      "pagina": 58
+    },
+    {
+      "id": "comunion-el-volvera",
+      "titulo": "Él volverá",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Llegará un día en que no habrá dolor, llegará un día en que todo será amor. Vendrá el Señor a juzgar a las naciones y a reinar en nuestros corazones. ÉL VOLVERÁ, ÉL VOLVERÁ, SU REINO DE PAZ NUNCA SE ACABARÁ. ÉL VOLVERÁ, ÉL VOLVERÁ, LA MUERTE POR SIEMPRE ÉL VENCERÁ. Velad y orad pues no sabéis el día, estad alerta en la fe y la alegría. Porque el Señor como un juez bajará y su justicia al mundo traerá.",
+      "pagina": 59
+    },
+    {
+      "id": "comunion-jesus-amigo",
+      "titulo": "Jesús amigo",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Hoy te quiero contar Jesús amigo que contigo soy feliz. Si tengo tu amistad lo tengo todo, pues tú cuidas de mí. Después de comulgar me haces sentir tu amor, me abrazas con tu paz, me das tu corazón. GRACIAS POR SER MI AMIGO, GRACIAS POR ESTAR AQUÍ. GRACIAS PORQUE TE QUEDAS SIEMPRE DENTRO DE MÍ. A veces me olvido de que estás conmigo, de que vas a mi lado. Perdóname Señor si te he fallado, ayúdame a ser santo. Quiero ser como Tú, amar como amas Tú, servir a mis hermanos con tu misma luz.",
+      "pagina": 60
+    },
+    {
+      "id": "comunion-jesus-camino",
+      "titulo": "Jesús: Camino, Verdad y Vida",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Tú eres el camino, Tú eres la verdad, Tú eres nuestra vida, nuestra libertad. Por Ti hemos nacido a la luz del sol, en Ti descubrimos el amor de Dios. JESÚS, JESÚS, JESÚS ES EL SEÑOR. JESÚS, JESÚS, JESÚS ES EL SEÑOR. Danos tu palabra, danos tu perdón, llénanos el alma con tu gran amor. Queremos seguirte siempre sin dudar, Tú eres el maestro que nos salvará.",
+      "pagina": 61
+    },
+    {
+      "id": "comunion-jesus-ven-tu",
+      "titulo": "Jesús, ven Tú",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Pan y vino, son tu rostro que hoy volvemos a tocar. Tu mirada que curaba, de nuevo nos sanará. No merezco que Tú vengas a mi pobreza tocar, mas yo quiero que en mi vida, Jesús, Tú puedas estar. JESÚS, VEN TÚ, ENTRA EN MI CASA DE NUEVO JESÚS VEN TÚ, PARA ENCENDER NUESTRO FUEGO JESÚS, JESÚS… JESÚS, JESÚS… Es tu vino nuestra sangre, que no nos deja morir Pan y vida, para todos prontos para compartir Te compartes con nosotros en la pobreza de un pan Cambiaremos nuestro mundo para que puedas estar. Como un ciego yo me atrevo a acercarme un poco a ti Tú conoces mis presiones, las veces que me perdí Mas Tú sabes que te quiero y que si vienes Jesús Todo es fiesta, todo es vida porque me has salvado Tú[cite: 4952, 4953, 4954, 4955, 4956].",
+      "pagina": 62
+    },
+    {
+      "id": "comunion-pescador-hombres",
+      "titulo": "Pescador de hombres",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Tú has venido a la orilla, no has buscado ni a sabios ni a ricos, tan sólo quieres que yo te siga. SEÑOR, ME HAS MIRADO A LOS OJOS, SONRIENDO HAS DICHO MI NOMBRE. EN LA ARENA HE DEJADO MI BARCA, JUNTO A TI BUSCARÉ OTRO MAR. Tú sabes bien lo que tengo, En mi barca no hay oro ni espadas, Tan sólo redes y mi trabajo. Tú necesitas mis manos, Mi cansancio que a otros descanse, Amor que quiera seguir amando. Tú, pescador de otros lagos, Ansia eterna de almas que esperan. Amigo bueno que así me llamas[cite: 4957, 4958, 4959, 4960, 4961, 4962].",
+      "pagina": 63
+    },
+    {
+      "id": "comunion-que-sere",
+      "titulo": "¿Qué seré?",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "¿Qué seré tan poca cosa como soy? Mira mis manos vacías; es tan poco mi poder, tan frágil como una niña. ¿Qué seré?, ¿Qué seré? ¿Qué seré si no se dar más que mi voz, ofrecer una sonrisa, entregarme en oración y querría dar la vida? ¿Qué seré?, ¿Qué seré? Y SERÉ EL CORAZÓN, YO SERÉ EL CORAZÓN, EL AMOR QUE SE OLVIDÓ. TE SERVIRÉ EN LO SENCILLO, TE AMARÉ CON CADA LATIDO[cite: 4963, 4964, 4965, 4966, 4967].",
+      "pagina": 64
+    },
+    {
+      "id": "comunion-se-fiel",
+      "titulo": "Sé fiel",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "SÉ FIEL HASTA LA MUERTE Y TE DARÉ LA CORONA DE LA VIDA. No temas lo que vas a sufrir, pues el Señor está contigo. El que sea vencedor no sufrirá la muerte segunda. Escucha lo que dice el Espíritu a las iglesias de Dios. Mantén firme tu fe en medio de la tribulación.",
+      "pagina": 65
+    },
+    {
+      "id": "comunion-sois-la-semilla",
+      "titulo": "Sois la semilla",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Sois la semilla que ha de crecer, sois la estrella que ha de brillar. Sois levadura, sois grano de sal, antorcha que debe alumbrar. Sois la mañana que vuelve a nacer, sois espiga que empieza a granar. Sois los amigos que quise escoger, sois palabra que intento gritar. ID AMIGOS POR EL MUNDO ANUNCIANDO EL AMOR, SED TESTIGOS DE MI VIDA, DE MI RESURRECCIÓN. ID LLEVANDO MI PRESENCIA, CON VOSOTROS ESTOY. Sois una llama que ha de encender resplandores de fe y caridad. Sois los pastores que han de guiar al mundo por sendas de paz. Sois los hombres que quiero enviar, sois testigos de mi verdad. Sois los profetas que han de anunciar a los pobres la libertad.",
+      "pagina": 66
+    },
+    {
+      "id": "comunion-pastor-nada-falta",
+      "titulo": "El Señor es mi pastor nada me falta",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "EL SEÑOR ES MI PASTOR, NADA ME FALTA. En praderas de fresca hierba me hace recostar. Hacia aguas de reposo me conduce, conforta mi alma. Me guía por senderos de justicia por amor de su nombre. Aunque camine por valle de sombras no temo mal alguno, porque Tú estás conmigo, tu vara y tu cayado me sosiegan. Preparas ante mí una mesa frente a mis adversarios. Unges mi cabeza con aceite, mi copa rebosa. Dicha y gracia me acompañarán todos los días de mi vida. Mi morada será la casa del Señor a lo largo de los días.",
+      "pagina": 67
+    },
+    {
+      "id": "comunion-el-tesoro",
+      "titulo": "El tesoro",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Busqué por mil caminos algo que me llenara, busqué en muchas personas algo que me saciara. Y nada encontré que me diera la paz, hasta que un día a mi puerta llamaste. ERES TÚ MI TESORO, MI TODO, MI DIOS. ERES TÚ LO QUE SIEMPRE MI ALMA BUSCÓ. YA NO QUIERO NADA QUE NO VENGA DE TI, PUES CONTIGO LO TENGO TODO PARA SER FELIZ. Ahora que te tengo ya no quiero soltarte, ahora que te siento solo quiero alabarte. Tu amor me transformó, tu gracia me salvó, eres la perla fina que mi vida encontró.",
+      "pagina": 68
+    },
+    {
+      "id": "comunion-tomado-de-la-mano",
+      "titulo": "Tomado de la mano",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "TOMADO DE LA MANO CON JESÚS YO VOY, LE SIGO COMO OVEJA QUE ENCONTRÓ AL PASTOR. TOMADO DE LA MANO CON JESÚS YO VOY, A DONDE ÉL VA. Si Jesús me dice: Amigo, deja todo y ven conmigo, yo mi mano pongo en la suya e iré con Él. Si Jesús me dice: Amigo, deja todo y ven conmigo, yo mi mano pongo en la suya e iré con Él. Yo te llevaré amigo a un lugar, a un lugar conmigo, donde el sol y las estrellas brillan más. Yo te llevaré amigo a un lugar, a un lugar conmigo, donde todo es más hermoso y más feliz.",
+      "pagina": 69
+    },
+    {
+      "id": "comunion-volaras",
+      "titulo": "Volarás",
+      "artista": "Tradicional",
+      "categoria": "Comunión",
+      "letra": "Abre tus alas y lánzate a volar, no tengas miedo el cielo es tu hogar. Deja la tierra, busca la eternidad, donde Dios vive en plena libertad. VOLARÁS, VOLARÁS, MÁS ALLÁ DE LAS NUBES EL CIELO ALCANZARÁS. VOLARÁS, VOLARÁS, Y EN LOS BRAZOS DEL PADRE POR SIEMPRE DESCANSARÁS. La vida pasa como un soplo de aire, nada es eterno si no es en el amor. Mira hacia arriba, busca tu destino, Jesús es el guía en tu caminar.",
+      "pagina": 70
+    },
+    {
+      "id": "virgen-ave-maria-palazon",
+      "titulo": "Ave María (Palazón)",
+      "artista": "Palazón",
+      "categoria": "Virgen",
+      "letra": "Dios te salve, María, llena eres de gracia, el Señor es contigo. Bendita Tú eres entre todas las mujeres y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.",
+      "pagina": 74
+    },
+    {
+      "id": "virgen-diario-maria",
+      "titulo": "Diario de María",
+      "artista": "Tradicional",
+      "categoria": "Virgen",
+      "letra": "Te miro a los ojos y entre tanto llanto parece mentira que te hayan clavado. Que seas el pequeño al que yo acunaba y que se dormía tan pronto en mis brazos, el que se reía al mirar el cielo y cuando rezaba se ponía serio. SOBRE ESTE MADERO VEO AL PEQUEÑO QUE ENTRE LOS DOCTORES HABLABA EN EL TEMPLO, QUE CUANDO PREGUNTÉ RESPONDIO CON CALMA QUE EN LOS NEGOCIOS DE DIOS ÉL ESTABA. VIVO SIN VIVIRTE Y MUERO EN TU MUERTE, MI RESUCITADO, MI AMADO, MI SEÑOR.",
+      "pagina": 74
+    },
+    {
+      "id": "virgen-es-tan-dulce",
+      "titulo": "Es tan dulce",
+      "artista": "Tradicional",
+      "categoria": "Virgen",
+      "letra": "Es tan dulce saber que estás conmigo, sentir que en tu regazo soy un niño. María, Madre mía, qué alegría. Tú nos llevas a Dios, eres nuestra guía. Ave María, Ave María. Tus manos me acarician con ternura, tus ojos me regalan la dulzura. No temo a la tormenta ni al camino, si Tú, Madre querida, vas conmigo.",
+      "pagina": 75
+    },
+    {
+      "id": "virgen-la-fe-de-maria",
+      "titulo": "La fe de María",
+      "artista": "Ítala y Juan",
+      "categoria": "Virgen",
+      "letra": "Qué hubiese pasado si ella hubiese dicho que no, o ignorado o dilatado el anuncio de tu ángel de amor. En cambio creyó en tu palabra y se hizo tu esclava en un acto perfecto de fe. DAME LA FE SEÑOR, LA FE DE MARÍA PARA DECIRTE SÍ, UN SÍ SIN MEDIDAS. DAME LA FE SEÑOR, LA FE DE MARÍA PARA RENUNCIAR A MÍ Y ENTREGARTE MI VIDA. Qué hubiese pasado si ella no hubiese aceptado el dolor, al ver a su hijo clavado en la cruz de un traidor.",
+      "pagina": 76
+    },
+    {
+      "id": "virgen-hoy-he-vuelto",
+      "titulo": "Hoy he vuelto",
+      "artista": "Tradicional",
+      "categoria": "Virgen",
+      "letra": "Cuantas veces siendo niño te recé, con mis besos te decía que te amaba; poco a poco con el tiempo, alejándome de ti, por caminos que se alejan me perdí. HOY HE VUELTO MADRE A RECORDAR, CUANTAS COSAS DIJE ANTE TU ALTAR, Y AL REZARTE PUEDO COMPRENDER QUE UNA MADRE NO SE CANSA DE ESPERAR. Al regreso me encendiste una luz, sonriendo desde lejos me esperabas; en la mesa la comida aún estaba caliente y bendecida, y en tus brazos me dormí siendo un niño.",
+      "pagina": 77
+    },
+    {
+      "id": "virgen-junto-a-ti",
+      "titulo": "Junto a ti, María",
+      "artista": "Tradicional",
+      "categoria": "Virgen",
+      "letra": "Junto a ti María, como un niño quiero estar, tómame en tus brazos, guíame en mi caminar. Quiero que me eduques, que me enseñes a rezar, hazme transparente, lléname de paz. MADRE, MADRE, MADRE, MADRE. Gracias Madre mía por llevarnos a Jesús, haznos más humildes tan sencillos como tú. Gracias Madre mía por abrir tu corazón, porque nos congregas y nos das tu amor.",
+      "pagina": 78
+    },
+    {
+      "id": "virgen-macarena",
+      "titulo": "Macarena",
+      "artista": "Popular",
+      "categoria": "Virgen",
+      "letra": "No sé que tiene tu cara, no sé que tiene tu nombre, que cuando digo María, todo el corazón se me encoge. Eres la estrella del alba, eres el sol de la tarde, eres la reina del cielo, y de mi vida la madre. MACARENA, MACARENA, TU CARA ES UNA AZUCENA. MACARENA, MACARENA, TÚ ERES LA MADRE MÁS BUENA.",
+      "pagina": 79
+    },
+    {
+      "id": "virgen-mirame",
+      "titulo": "María mírame",
+      "artista": "Betulio Medina",
+      "categoria": "Virgen",
+      "letra": "María mírame, María mírame, si tú me miras Él también me mirará. Madre mía mírame, de la mano llévame, muy cerca de Él, que ahí me quiero quedar. María cúbreme con tu manto, que tengo miedo, no sé rezar; que por tus ojos misericordiosos, tendré la fuerza, tendré la paz.",
+      "pagina": 80
+    },
+    {
+      "id": "virgen-oh-primer-sagrario",
+      "titulo": "Oh primer sagrario",
+      "artista": "Tradicional",
+      "categoria": "Virgen",
+      "letra": "Oh primer sagrario, María, donde el Verbo se encarnó. Tú que llevaste en tu seno al mismo Dios, el Salvador. Danos tu silencio, Madre, para escuchar su voz, danos tu confianza pura para entregarnos a Dios. BENDITO EL FRUTO DE TU VIENTRE, BENDITO EL SÍ QUE NOS SALVÓ.",
+      "pagina": 80
+    },
+    {
+      "id": "virgen-ora-pro-nobis",
+      "titulo": "Ora pro nobis",
+      "artista": "Tradicional",
+      "categoria": "Virgen",
+      "letra": "AVE MARÍA, ORA PRO NOBIS. ORA PRO NOBIS, MADRE DE DIOS. En el dolor de los que sufren, ora pro nobis. En la esperanza de los que aman, ora pro nobis. En la sonrisa de los niños, ora pro nobis. En el silencio de los ancianos, ora pro nobis.",
+      "pagina": 81
+    },
+    {
+      "id": "virgen-quiero-decir-que-si",
+      "titulo": "Quiero decir que sí",
+      "artista": "Tradicional",
+      "categoria": "Virgen",
+      "letra": "Quiero decir que sí, como tú María, como tú un día, como tú María. Quiero decir que sí, quiero decir que sí. Quiero entregarme a Él, como tú María, como tú un día, como tú María. Quiero seguirle a Él, quiero seguirle a Él. Quiero amarle a Él, como tú María, como tú un día, como tú María. Quiero amarle a Él, quiero amarle a Él.",
+      "pagina": 82
+    },
+    {
+      "id": "virgen-salve-rociera",
+      "titulo": "Salve rociera",
+      "artista": "Pareja Obregón",
+      "categoria": "Virgen",
+      "letra": "Dios te salve María del Rocío Señora, luna, sol, norte y guía y pastora celestial. Dios te salve María todo el pueblo te adora y repite a porfía como tú no hay otra igual. OLÉ, OLÉ, AL ROCÍO YO QUIERO VOLVER A CANTARLE A LA VIRGEN CON FE CON UN OLÉ. Dios te salve María manantial de dulzura, a tus pies noche y día te pedimos protección.",
+      "pagina": 83
+    },
+    {
+      "id": "virgen-santa-maria-camino",
+      "titulo": "Santa María del Camino",
+      "artista": "Tradicional",
+      "categoria": "Virgen",
+      "letra": "Mientras recorres la vida tú nunca solo estás, contigo por el camino Santa María va. VEN CON NOSOTROS A CAMINAR, SANTA MARÍA VEN. Aunque te digan algunos que nada puede cambiar, lucha por un mundo nuevo, lucha por la verdad. Si por el mundo los hombres sin conocerse van, no niegues nunca tu mano al que contigo está.",
+      "pagina": 83
+    },
+    {
+      "id": "virgen-tantas-cosas",
+      "titulo": "Tantas cosas en la vida",
+      "artista": "Tradicional",
+      "categoria": "Virgen",
+      "letra": "Tantas cosas en la vida nos ofrecen plenitud y no son más que mentiras que desgastan la virtud. Pero Tú eres la esperanza, Tú eres luz en la oscuridad, Madre que siempre nos amas, Madre de la cristiandad. MARÍA, LUZ DE MI VIDA, MARÍA, SIEMPRE SERÁS, LA ESTRELLA QUE NOS GUÍA HACIA LA ETERNIDAD.",
+      "pagina": 84
+    },
+    {
+      "id": "adoracion-adoramus-te",
+      "titulo": "Adoramus te, Dominé",
+      "artista": "Taizé",
+      "categoria": "Adoración",
+      "letra": "Adoramus te, Dominé. Adoramus te, Dominé. Oh, oh, oh, adoramus te, Dominé.",
+      "pagina": 88
+    },
+    {
+      "id": "adoracion-ahora-y-siempre",
+      "titulo": "Ahora y siempre",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "AHORA Y SIEMPRE, GLORIA AL SEÑOR. AHORA Y SIEMPRE, GLORIA AL SEÑOR. Alabadle por sus obras, alabadle por su amor. Cantad todos aleluya, gloria a nuestro Salvador. En el cielo y en la tierra se oiga un canto de alabanza, bendecid su Santo Nombre, Él es nuestra esperanza.",
+      "pagina": 88
+    },
+    {
+      "id": "adoracion-amando-extremo",
+      "titulo": "Amando hasta el extremo",
+      "artista": "Maite López",
+      "categoria": "Adoración",
+      "letra": "Déjame Señor mirar tu rostro, déjame Señor que me hable tu mirada. No quiero apartar mis ojos de los tuyos, no quiero dejar de sentir que me amas. AMANDO HASTA EL EXTREMO, HASTA DAR LA VIDA, ASÍ NOS AMA DIOS. AMANDO HASTA EL EXTREMO, HASTA DAR LA VIDA, ASÍ NOS AMA DIOS. Pones en mis manos tu cuerpo y tu sangre, te haces alimento por amor a mí. Quieres que yo sea testigo de tu vida, que me entregue a todos como Tú por mí.",
+      "pagina": 89
+    },
+    {
+      "id": "adoracion-alma-amor",
+      "titulo": "El alma que anda en amor",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "El alma que anda en amor ni cansa ni se cansa. El alma que anda en amor ni cansa ni se cansa. Ni cansa ni se cansa, ni cansa ni se cansa.",
+      "pagina": 90
+    },
+    {
+      "id": "adoracion-amor-no-basta",
+      "titulo": "El amor no dice basta",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "El amor no dice basta, el amor no dice espera, el amor lo entrega todo, el amor es una hoguera. No se cansa de buscarte, no se cansa de llamarte, el amor es Jesucristo que ha venido para amarte. DÉJATE AMAR POR ÉL, DÉJATE TOCAR POR ÉL, ABRE TU CORAZÓN Y VERÁS QUÉ BUENO ES ÉL.",
+      "pagina": 90
+    },
+    {
+      "id": "adoracion-oseas",
+      "titulo": "Canto de Oseas",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Yo te desposaré conmigo para siempre. Te desposaré en justicia y en derecho, en misericordia y en amor. Yo te desposaré conmigo en fidelidad y tú conocerás a tu Señor. No temas, que yo estoy contigo, no mires con ansiedad, porque yo soy tu Dios.",
+      "pagina": 91
+    },
+    {
+      "id": "adoracion-confio",
+      "titulo": "Confío",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Confío en Ti, solo en Ti. Confío en Ti, mi Señor. Tú eres mi roca, mi salvación. Confío en Ti, mi Señor. En la noche oscura de mi fe, confío en Ti. Cuando el viento sopla contra mí, confío en Ti. Eres mi refugio, mi sostén, confío en Ti.",
+      "pagina": 91
+    },
+    {
+      "id": "adoracion-corazon-cristo",
+      "titulo": "Corazón de Cristo",
+      "artista": "Adoración Dele",
+      "categoria": "Adoración",
+      "letra": "Hay un corazón que late, que palpita en el sagrario, un corazón solitario que se alimenta de amor. Es un corazón paciente, es el corazón amigo, el que habita en el olvido, el corazón de tu Dios. DECID A TODOS QUE VENGAN A LA FUENTE DE LA VIDA, QUE HAY UNA HISTORIA ESCONDIDA DENTRO DE ESE CORAZÓN. Dejad que los niños vengan, que se acerquen a mi lado, que yo quiero estar con ellos y darles mi bendición.",
+      "pagina": 92
+    },
+    {
+      "id": "adoracion-cuan-grande",
+      "titulo": "Cuán grande es mi Dios",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "El esplendor de un Rey, vestido en majestad; la Tierra alegre está, la Tierra alegre está. Cubierto está de luz, venció a la oscuridad, y tiembla a su voz, y tiembla a su voz. CUÁN GRANDE ES MI DIOS, CANTARÉ; CUÁN GRANDE ES MI DIOS, Y TODOS LO VERÁN, CUÁN GRANDE ES MI DIOS. Día a día Él está, el tiempo suyo es, principio y el fin, principio y el fin. La trinidad de Dios, Padre, Hijo, Espíritu, Cordero y el León, Cordero y el León.",
+      "pagina": 93
+    },
+    {
+      "id": "adoracion-dejarme-hacer",
+      "titulo": "Dejarme hacer",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Dejarme hacer, dejarme querer, dejarme moldear por tus manos. Dejarme hacer, dejarme querer, poner mi vida en tu regazo. Como el barro en manos del alfarero, haz de mí lo que Tú quieras, Señor. Como la rama que se injerta en el tronco, haz que viva siempre en tu amor.",
+      "pagina": 93
+    },
+    {
+      "id": "adoracion-donde-tuy",
+      "titulo": "Donde Tú quieras",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Donde Tú quieras, lo que Tú quieras, como Tú quieras, cuando Tú quieras. Esa es mi voluntad ante Ti, Señor. Esa es mi vida puesta en tus manos. No quiero buscar mi propio interés, solo deseo hacer tu voluntad.",
+      "pagina": 94
+    },
+    {
+      "id": "adoracion-debilidad",
+      "titulo": "En mi debilidad",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "En mi debilidad me haces fuerte, en mi debilidad me haces fuerte. Solo en Ti, Señor, encuentro mi valor, en mi debilidad me haces fuerte. Cuando caigo Tú me levantas, cuando lloro Tú me consuelas. Tu gracia me basta, tu amor me sostiene, en mi debilidad me haces fuerte.",
+      "pagina": 94
+    },
+    {
+      "id": "adoracion-hasta-locura",
+      "titulo": "Hasta la locura",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Te amo Señor, en la alegría y el dolor. Te amo Señor, con todo mi corazón. Te amo Señor, y quiero serte fiel, hasta la locura, hasta la cruz. NO HAY AMOR MÁS GRANDE QUE DAR LA VIDA, NO HAY AMOR MÁS GRANDE QUE TU PASIÓN. ME HAS ENAMORADO CON TU ENTREGA, ME HAS CONQUISTADO EN LA ORACIÓN.",
+      "pagina": 95
+    },
+    {
+      "id": "adoracion-laudate",
+      "titulo": "Laudate omnes gentes",
+      "artista": "Taizé",
+      "categoria": "Adoración",
+      "letra": "Laudate omnes gentes, laudate Dominum. Laudate omnes gentes, laudate Dominum.",
+      "pagina": 95
+    },
+    {
+      "id": "adoracion-magnificat",
+      "titulo": "Magnificat",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Proclama mi alma la grandeza del Señor, se alegra mi espíritu en Dios mi Salvador. Porque ha mirado la humillación de su esclava. Desde ahora me felicitarán todas las generaciones. Porque el Poderoso ha hecho obras grandes por mí, su nombre es santo y su misericordia llega a sus fieles de generación en generación.",
+      "pagina": 95
+    },
+    {
+      "id": "adoracion-seducido",
+      "titulo": "Me has seducido Señor",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Señor, me has seducido y yo me dejé; me has forzado y has sido más fuerte que yo. Pero cada vez que hablo tengo que gritar: Violencia, oprimido. La palabra del Señor ha sido para mí un oprobio y un desprecio cada día. ME HAS SEDUCIDO SEÑOR, ME HAS SEDUCIDO. Yo decía: No me acordaré de Él, ni hablaré más en su nombre. Pero había en mi corazón como un fuego ardiente, encerrado en mis huesos; intentaba contenerlo y no podía.",
+      "pagina": 96
+    },
+    {
+      "id": "adoracion-mueveme",
+      "titulo": "Muéveme",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "No me mueve, mi Dios, para quererte el cielo que me tienes prometido, ni me mueve el infierno tan temido para dejar por eso de ofenderte. Tú me mueves, Señor; muéveme el verte clavado en una cruz y escarnecido; muéveme el ver tu cuerpo tan herido, muévenme tus afrentas y tu muerte. Muéveme, al fin, tu amor, y en tal manera, que aunque no hubiera cielo, yo te amara, y aunque no hubiera infierno, te temiera. No me tienes que dar porque te quiera; pues aunque lo que espero no esperara, lo mismo que te quiero te quisiera.",
+      "pagina": 96
+    },
+    {
+      "id": "adoracion-nada-separa",
+      "titulo": "Nada nos separará",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "NADA NOS SEPARARÁ, NADA NOS SEPARARÁ DEL AMOR DE DIOS. Ni la muerte, ni la vida, ni los ángeles, ni los principados, ni lo presente, ni lo futuro, ni las potestades, ni la altura, ni la profundidad, ni criatura alguna podrá separarnos del amor de Dios manifestado en Cristo Jesús Señor nuestro.",
+      "pagina": 97
+    },
+    {
+      "id": "adoracion-nada-te-turbe",
+      "titulo": "Nada te turbe",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Nada te turbe, nada te espante, todo se pasa, Dios no se muda; la paciencia todo lo alcanza; quien a Dios tiene nada le falta: Solo Dios basta.",
+      "pagina": 97
+    },
+    {
+      "id": "adoracion-nadie-te-ama",
+      "titulo": "Nadie te ama como yo",
+      "artista": "Martín Valverde",
+      "categoria": "Adoración",
+      "letra": "Cuánto he esperado este momento, cuánto he esperado que estuvieras así. Cuánto he esperado que me hablaras, cuánto he esperado que vinieras a Mí. Yo sé bien lo que has vivido, yo sé bien por qué has llorado; yo sé bien lo que has sufrido pues de tu lado no me he ido. PUES NADIE TE AMA COMO YO, PUES NADIE TE AMA COMO YO; MIRA A LA CRUZ, ESA ES MI MÁS GRANDE PRUEBA. NADIE TE AMA COMO YO. PUES NADIE TE AMA COMO YO, PUES NADIE TE AMA COMO YO; MIRA A LA CRUZ, FUE POR TI, PORQUE TE AMO. NADIE TE AMA COMO YO. Yo sé bien lo que me dices aunque a veces no me hablas; yo sé bien lo que en ti sientes aunque nunca lo compartas. Yo a tu lado he caminado, junto a ti yo siempre he ido; aún a veces te he cargado, yo he sido tu mejor amigo.",
+      "pagina": 98
+    },
+    {
+      "id": "adoracion-no-adoreis",
+      "titulo": "No adoréis a nadie",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "No adoréis a nadie, a nadie más que a Él. No adoréis a nadie, a nadie más que a Él. No adoréis a nadie, a nadie más, no adoréis a nadie, a nadie más, no adoréis a nadie, a nadie más que a Él. PORQUE SÓLO ÉL NOS PUEDE SALVAR. No alabéis a nadie... No escuchéis a nadie... No miréis a nadie...",
+      "pagina": 99
+    },
+    {
+      "id": "adoracion-jesus-amor-mio",
+      "titulo": "Oh Jesús, amor mío",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Oh Jesús, amor mío, mi alegría, mi Dios. Mi esperanza, mi vida, mi único bien y mi amor. Quién me diera abrasarme en el fuego de tu amor. Quién me diera perderme en tu dulce corazón. No quiero nada fuera de Ti, Tú solo me bastas, Jesús. En Ti descanso, en Ti confío, en Ti vivo y moriré.",
+      "pagina": 100
+    },
+    {
+      "id": "adoracion-padre-manos",
+      "titulo": "Padre, me pongo en tus manos",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Padre, me pongo en tus manos, haz de mí lo que quieras: sea lo que sea, te doy gracias. Estoy dispuesto a todo, lo acepto todo, con tal que tu voluntad se cumpla en mí y en todas tus criaturas. No deseo nada más, Padre. Te confío mi alma, te la doy con todo el amor de que soy capaz, porque para mí es una necesidad de amor el darme, el entregarme en tus manos sin medida, con una infinita confianza, porque Tú eres mi Padre.",
+      "pagina": 101
+    },
+    {
+      "id": "adoracion-padrenuestro-vida",
+      "titulo": "Padrenuestro de la vida",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Padre nuestro que estás en los cielos, santificado sea tu Nombre. Venga a nosotros tu Reino. Hágase tu voluntad así en la tierra como en el cielo. El pan nuestro de cada día dánosle hoy. Perdona nuestras deudas como nosotros perdonamos a nuestros deudores. No nos dejes caer en la tentación, mas líbranos del mal. AMÉN.",
+      "pagina": 102
+    },
+    {
+      "id": "adoracion-que-me-queda",
+      "titulo": "¿Qué me queda?",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "¿Qué me queda si no te tengo a Ti? ¿Qué me queda si no vives en mí? Eres el aire que respiro, eres el agua que me calma, eres el fuego que me quema y el amor que me salva. SI ME FALTAS TÚ, ME FALTA TODO. SI ME FALTAS TÚ, NO TENGO NADA. QUÉDATE SEÑOR DENTRO DE MI ALMA, QUÉDATE SEÑOR Y DAME TU PAZ.",
+      "pagina": 103
+    },
+    {
+      "id": "adoracion-que-bien-esta",
+      "titulo": "Qué bien se está aquí, Señor",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Qué bien se está aquí, Señor, no hay otro lugar donde prefiera estar. Qué bien se está aquí, Señor, sintiendo tu presencia en la paz del altar. QUÉ BIEN SE ESTÁ AQUÍ, SEÑOR. QUÉ BIEN SE ESTÁ AQUÍ, SEÑOR. Queremos escucharte, queremos adorarte, queremos entregarnos a Ti sin descansar. Transfórmanos la vida con tu luz y tu alegría, haznos testigos de tu amor en la ciudad.",
+      "pagina": 104
+    },
+    {
+      "id": "adoracion-sacerdote",
+      "titulo": "Sacerdote",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Sacerdote, pastor con el Buen Pastor. Llamado a servir, llamado al amor. Entregas tu vida en el altar, por Cristo y su Iglesia te dejas quemar. GRACIAS SEÑOR POR LOS SACERDOTES QUE CUIDAN TU GREY. HAZLOS SANTOS SEGÚN TU CORAZÓN, TESTIGOS DE TU LEY. Manos ungidas para bendecir, labios que anuncian el Reino que ha de venir. Padre y amigo en la confesión, dándonos siempre el perdón de Dios.",
+      "pagina": 105
+    },
+    {
+      "id": "adoracion-si-conocieras",
+      "titulo": "Si conocieras el don de Dios",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Si conocieras el don de Dios y quién es el que te pide de beber, tú le pedirías a Él y Él te daría agua viva. Agua que salta hasta la vida eterna, agua que limpia y que quita la sed. DAME DE ESA AGUA SEÑOR, PARA QUE NO TENGA SED JAMÁS. DAME DE ESA AGUA SEÑOR, QUE BROTA DE TU CORAZÓN.",
+      "pagina": 106
+    },
+    {
+      "id": "adoracion-si-creo",
+      "titulo": "Sí, yo sí creo en Ti",
+      "artista": "Siempre Así",
+      "categoria": "Adoración",
+      "letra": "Sí, yo sí creo en Ti. Yo sí creo en Ti, Jesús, yo te puedo ver, tocar y sentir. Sí, yo sí creo en Ti. Yo sí creo en Ti, Jesús, cuando te busqué, estabas ahí. Siempre que gocé, siempre que sufrí creo en ese Amor del que Tú me hablas yo sí creo en Ti, porque estás aquí. Porque estás en mí, porque estas en mí. Porque cada día, te puedo sentir en la belleza, te puedo sentir en la alegría y en la tristeza en mi familia y en mi existencia porque viviste para enseñarnos que solo se ama, sin nada a cambio creo en ese Amor del que Tú me hablas yo sí creo en Ti, porque estás aquí.",
+      "pagina": 107
+    },
+    {
+      "id": "adoracion-sigue-habiendo",
+      "titulo": "Sigue habiendo",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Sigue habiendo tantos pies que lavar. Sigue habiendo tanta oscuridad que iluminar, tantas cadenas que romper. Pan y vino para el pobre quiero ser, (Fortalece, Señor, mi poca fe.) Sigue habiendo tanto hambre que saciar, sigue habiendo tantas llagas que curar, tantas injusticias que vencer. Luz y sal para el mundo quiero ser, (Fortalece, Señor, mi poca fe.)",
+      "pagina": 107
+    },
+    {
+      "id": "adoracion-te-buscare",
+      "titulo": "Te buscaré",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "TE BUSCARÉ EN LAS CALLES AL PASAR, ME ENCONTRARÉ CONTIGO EN QUIEN NO ESPERE. Y AL VIVIR, LA VIDA QUE ME DES NUNCA SERÁ AJENA A ESE QUE HALLÉ. TE PEDIRÉ QUE SEPA UNIRME A TI EN CADA SER QUE EL MUNDO HA DESPRECIADO. Y JAMÁS SE ME PODRÁ OLVIDAR QUE EN TODOS DIOS PRESENTE Y VIVO ESTÁ. Te buscaré en el que sufre dolor, te buscaré en el que busca el perdón. Te buscaré en el que no tiene hogar, te buscaré en el que quiere amar.",
+      "pagina": 108
+    },
+    {
+      "id": "adoracion-tengo-sed",
+      "titulo": "Tengo sed",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Mira que estoy a la puerta y llamo, estoy a la puerta de tu corazón de día y de noche. Te conozco como la palma de mi mano, conozco tus heridas, Yo las llevé antes que tú, y conozco sobre todo tu necesidad de amor. ÁBRETE A MÍ, VEN A MÍ, TEN SED DE MÍ, DAME TU VIDA. CONFÍA EN MÍ, PÍDEME QUE ENTRE, QUE TOME TU SER Y LO HARÉ. TE PROMETO ANTE MI PADRE QUE HARÉ MILAGROS CONTIGO. Tengo sed, tengo sed de amarte y de que me ames. ¿Tienes sed?, te amo como nunca imaginaste. Tengo sed, tengo sed de amarte y de que me ames, no hay nadie para Mí más importante. Toda tu vida he deseado tu amor y tú te olvidas de Mí, te olvidas de Mí. Busco a cada momento tu corazón, ¿te es difícil creer esto?, entonces mira la cruz, mira mi corazón traspasado por ti. ÁBRETE A MÍ… Ven a Mí, ven con tu deseo de ser amada, ven a Mí, ábreme tu corazón ahora mismo más que antes. Mírame que estoy a la puerta y llamo, ábreme porque tengo sed de ti.",
+      "pagina": 109
+    },
+    {
+      "id": "adoracion-ubi-caritas",
+      "titulo": "Ubi caritas",
+      "artista": "Taizé",
+      "categoria": "Adoración",
+      "letra": "Ubi caritas et amor, ubi caritas, Deus ibi est.",
+      "pagina": 110
+    },
+    {
+      "id": "adoracion-vengo-adorarte",
+      "titulo": "Vengo a adorarte",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Tú eres la luz que brilló en las tinieblas, abrió mis ojos, pude ver. Mi corazón adora tu hermosura, esperanza de mi vida eres tú. VENGO A ADORARTE, VENGO A POSTRARME, VENGO A DECIR QUE ERES MI DIOS. SOLO TÚ ERES GRANDE, SOLO TÚ ERES DIGNO ERES ASOMBROSO PARA MÍ. Tú eres el rey grandemente exaltado, glorioso por siempre, Señor. Al mundo que creaste humilde viviste, y pobre te hiciste por amor.",
+      "pagina": 110
+    },
+    {
+      "id": "adoracion-vengo-aqui",
+      "titulo": "Vengo aquí, mi Señor",
+      "artista": "Tradicional",
+      "categoria": "Adoración",
+      "letra": "Vengo aquí, mi Señor, a olvidar las prisas de mi vida, ahora sólo importas tú: dale tu paz a mi alma. Vengo aquí, mi Señor, a encontrarme con tu paz que me serena, ahora sólo importas tú: dale tu paz a mi alma. Vengo aquí, mi Señor, a que en mí lo transformes todo, ahora sólo importas tú: dale tu paz a mi alma. Vengo aquí, mi Señor, a decirte simplemente que te quiero, ahora sólo importas tú: dale tu paz a mi alma.",
+      "pagina": 111
+    },
+    {
+      "id": "hakuna-el-abrazo",
+      "titulo": "El Abrazo",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "En mis horas de oscuridad, en mis momentos de soledad, siento tu abrazo que me da paz. En mis caídas y en mi error, en mi cansancio y en mi dolor, siento tu abrazo lleno de amor. TU ABRAZO ES MI HOGAR, TU ABRAZO ES MI VIDA, EN ÉL ENCUENTRO LA FUERZA QUE ESTABA PERDIDA. TU ABRAZO ES EL CIELO QUE BAJA A LA TIERRA, DONDE SE ACABAN EL ODIO Y LA GUERRA. No importa el tiempo ni el lugar, Tú siempre estás listo para abrazar a este hijo que vuelve a tu hogar. Con tu abrazo sanas mi piel, con tu abrazo me haces ser fiel, eres mi Dios, mi Padre, mi Rey.",
+      "pagina": 115
+    },
+    {
+      "id": "hakuna-arde",
+      "titulo": "Arde",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Arde mi corazón al escucharte, arde mi alma al contemplarte. Como el fuego que no se apaga, como la sed que nunca se acaba. ARDE, ARDE, ARDE EL AMOR. ARDE, ARDE, ARDE EN MI INTERIOR. Quema mis miedos, quema mis dudas, llena mi vida de tu luz pura. Quiero ser llama que encienda el mundo, quiero ser eco de tu amor profundo. En el silencio de la oración, siento el latido de tu corazón. Arde por mí, arde por todos, sálvanos, Señor, de todos los modos.",
+      "pagina": 116
+    },
+    {
+      "id": "hakuna-bendito",
+      "titulo": "Bendito",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Bendito seas por siempre, Señor, por el regalo de tu gran amor. Bendito seas en el pan y el vino, bendito seas en nuestro camino. BENDITO, BENDITO, BENDITO EL SEÑOR. CANTAD ALABANZAS A NUESTRO CREADOR. Por la vida que nos has dado, por el mundo que has creado. Bendito seas en la alegría, bendito seas en la agonía. Todo es gracia, todo es don, bendito seas en mi corazón.",
+      "pagina": 118
+    },
+    {
+      "id": "hakuna-cirineo",
+      "titulo": "Cirineo",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Yo quiero ser tu Cirineo, Señor, cargar contigo la cruz del amor. No dejarte solo en el camino, compartir contigo tu destino. AYÚDAME A AYUDAR, ENSÉÑAME A AMAR, QUE EN CADA HERMANO TE PUEDA ENCONTRAR. SI TÚ LLEVASTE MI PESO EN EL CALVARIO, YO QUIERO LLEVAR EL TUYO A DIARIO. En el que sufre, en el que llora, en el que espera una nueva aurora. Allí estás Tú pidiendo ayuda, allí estoy yo venciendo la duda. Haz mis hombros fuertes para cargar, haz mi corazón grande para amar.",
+      "pagina": 119
+    },
+    {
+      "id": "hakuna-cuatro-vientos",
+      "titulo": "Cuatro vientos",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "A los cuatro vientos gritaré tu nombre, que se entere el mundo que Dios se hizo hombre. Que el amor ha vencido a la muerte, que seguirte a Ti es mi mejor suerte. ALELUYA, ALELUYA, LA GLORIA ES TUYA. ALELUYA, ALELUYA, MI VIDA ES TUYA. Desde el norte al sur, desde el este al oeste, que tu luz brille, que tu reino preste. No callemos nunca la gran noticia, Dios es ternura, Dios es justicia. Con alegría vamos cantando, que el Reino de Dios ya está llegando.",
+      "pagina": 120
+    },
+    {
+      "id": "hakuna-deseo",
+      "titulo": "Deseo",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Deseo amarte como nadie te amó, deseo servirte como nadie te sirvió. Entregarte todo lo que soy y tengo, a tus pies, Señor, ahora yo vengo. MI ÚNICO DESEO ERES TÚ, MI ÚNICO ANHELO ES TU LUZ. LLÉNAME EL ALMA DE TU PRESENCIA, HAZ QUE MI VIDA SEA TU ESENCIA. Deseo que mi vida sea una oración, que cada latido sea una canción. Que no busque nada que no seas Tú, que mi camino sea siempre tu luz. En la sencillez, en lo cotidiano, deseo encontrarte y darte mi mano.",
+      "pagina": 121
+    },
+    {
+      "id": "hakuna-enciendeme",
+      "titulo": "Enciéndeme",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Enciéndeme, Señor, con tu fuego, que no sea yo el que viva, sino Tú en mí. Enciéndeme, Señor, con tu espíritu, que sea testigo de tu amor hasta el fin. LUZ DEL MUNDO, SAL DE LA TIERRA, ESO QUEREMOS SER. ENCIÉNDENOS CON TU PALABRA, HAZNOS DE NUEVO NACER. No permitas que mi luz se apague, no permitas que me canse de amar. En medio de la noche sé mi guía, en medio del desierto sé mi manantial. Con tu fuego quema mis egoísmos, con tu luz alumbra mi caminar.",
+      "pagina": 122
+    },
+    {
+      "id": "hakuna-madre",
+      "titulo": "Madre de Hakuna",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Madre de Hakuna, Madre del Amor, llévanos siempre a tu hijo el Señor. Tú que supiste decir que sí, enséñanos a nosotros a vivir así. MARÍA, MADRE NUESTRA, MARÍA, NUESTRA LUZ. LLÉVANOS DE LA MANO AL PIE DE LA CRUZ. En la alegría de la fiesta estás, en el silencio de la soledad. Cuida de este grupo que te quiere amar, cuida de nosotros en nuestro caminar. Bajo tu manto queremos vivir, contigo, María, queremos seguir.",
+      "pagina": 123
+    },
+    {
+      "id": "hakuna-mi-peso",
+      "titulo": "Mi peso en tus hombros",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Puse mi peso en tus hombros y Tú no te quejaste. Llevaste mis penas y me consolaste. Yo estaba perdido y Tú me encontraste, yo estaba herido y Tú me sanaste. GRACIAS SEÑOR POR CARGAR CONMIGO, GRACIAS SEÑOR POR SER MI AMIGO. NO HAY CARGA PESADA SI VAS A MI LADO, NO HAY MIEDO NINGUNO SI ME HAS PERDONADO. Ahora yo quiero llevar tu alegría, ser para el mundo luz y armonía. Que mis hombros sirvan para descansar a los hermanos que han de llegar. Tu yugo es suave, tu carga ligera, contigo la vida es una primavera.",
+      "pagina": 124
+    },
+    {
+      "id": "hakuna-para-quien",
+      "titulo": "Para quién soy yo",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "¿Para quién soy yo?, me pregunto cada día. ¿Para quién es mi vida, mi pena y mi alegría? No quiero vivir solo para mí, quiero entregarme y ser feliz por Ti. SOY PARA DIOS, SOY PARA LOS DEMÁS, EN LA ENTREGA ENCUENTRO LA VERDADERA PAZ. NO TENGO DUEÑO, SOLO TU AMOR, SOY TU PEQUEÑO, MI BUEN SEÑOR. Mis manos son para ayudar, mis labios para bendecir, mi corazón para amar y mi vida para servir. Enséñame a ver quién me necesita, enséñame a dar la respuesta bendita. Para el que sufre, para el que espera, para el que busca una vida verdadera.",
+      "pagina": 125
+    },
+    {
+      "id": "hakuna-pasion",
+      "titulo": "Pasión de Dios",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Pasión de Dios es el hombre, pasión de Dios es su vida. Nos busca por nuestro nombre, nos cura cada herida. Qué locura de amor es la tuya, que te entregas sin condición. Que tu gracia en nosotros fluya y limpie nuestro corazón. PASIÓN DE DIOS EN LA CRUZ, PASIÓN DE DIOS EN EL PAN. ERES NUESTRA VIDA Y LUZ, EL AMOR QUE TODOS BUSCARÁN. No te cansas de esperarnos, no te cansas de perdonar. Solo quieres abrazarnos y enseñarnos a amar. En cada latido, en cada respiro, sentimos tu fuerza y tu gran cariño. Pasión que transforma, pasión que libera, la vida contigo es una vida entera.",
+      "pagina": 127
+    },
+    {
+      "id": "hakuna-la-piel-por-ti",
+      "titulo": "La Piel por Ti",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Me pides que te dé la vida, que me gaste por Ti, que no me guarde nada, que me entregue hasta el fin. Y yo que soy tan pobre, que no tengo valor, te pido que me ayudes a decir que sí, Señor. QUIERO DAR LA PIEL POR TI, QUIERO GASTARME EN TU AMOR, QUE MI VIDA SEA UN GRITO QUE ANUNCIE TU SALVACIÓN. QUE NO ME CANSE DE DAR, QUE NO ME CANSE DE AMAR, QUE EN CADA PASO QUE DETÉ, TÚ SEAS MI CAMINAR. No importa el cansancio, no importa el dolor, si Tú vas conmigo, mi Rey y mi Dios. Que el mundo vea en mí tu luz y tu verdad, que sea yo instrumento de tu gran bondad.",
+      "pagina": 128
+    },
+    {
+      "id": "hakuna-sencillamente",
+      "titulo": "Sencillamente",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Sencillamente amarte, sencillamente estar, sin prisas ni palabras, solo tu paz buscar. Mirarte a los ojos, dejarme acariciar, por ese amor tan grande que me quieres dar. SENCILLAMENTE DIOS, SENCILLAMENTE AMOR, EN EL SILENCIO HABLAS A MI CORAZÓN. SENCILLAMENTE AQUÍ, SENCILLAMENTE EN TI, HE ENCONTRADO LA VIDA QUE SIEMPRE PEDÍ. No busco grandes cosas, ni gloria ni poder, solo quiero en tus manos dejarme hacer. Ser como un niño pequeño que confía en su papá, y en tu regazo eterno poderme descansar.",
+      "pagina": 129
+    },
+    {
+      "id": "hakuna-tomad-comed",
+      "titulo": "Tomad, comed",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Tomad y comed, este es mi Cuerpo. Tomad y bebed, esta es mi Sangre. Memoria de un amor que no tiene final, presencia viva y real en el altar. TE ADORAMOS SEÑOR EN EL PAN Y EL VINO, TE ADORAMOS SEÑOR EN NUESTRO CAMINO. ERES EL ALIMENTO QUE DA LA VIDA, LA FUENTE DE GRACIA NUNCA PERDIDA. Te haces pequeño para entrar en mí, te haces humilde para hacerme feliz. Qué misterio tan grande, qué inmenso favor, recibir en mi alma a mi Creador.",
+      "pagina": 131
+    },
+    {
+      "id": "hakuna-vertigo",
+      "titulo": "Vértigo",
+      "artista": "Hakuna",
+      "categoria": "Hakuna",
+      "letra": "Siento vértigo al mirar lo que me pides, siento miedo al pensar en tu misión. Pero escucho tu voz que me dice: 'No temas, Yo estoy con tu corazón'. ES EL VÉRTIGO DEL AMOR, ES EL VÉRTIGO DE LA FE, EL QUE ME HACE SALTAR AL VACÍO SABIENDO QUE ME SOSTENDRÁS TÚ, MI REY. Salto sin red, salto a tus brazos, confío mi vida a tus santos pasos. Aunque el abismo parezca profundo, tu amor es más grande que todo el mundo. Llévame donde quieras, haz de mí lo que anheles, que mis miedos se fundan en tus amores fieles.",
+      "pagina": 132
+    },
+    {
+      "id": "otros-plato-fuerte",
+      "titulo": "Un plato fuerte",
+      "artista": "Tradicional",
+      "categoria": "Otros",
+      "letra": "Todo corre a cuenta de un gran chef que quiere invitarnos a un buffet. En el banquete del Reino de Dios los despreciados ocupan el puesto de honor. SI ALGÚN HERMANO NO TIENE TU AMOR, A ESTE PLATO LE FALTA SABOR. Es la alegría de compartir, es la esperanza de un porvenir. Venid a la mesa, venid a comer, que el Señor nos ofrece todo su ser.",
+      "pagina": 136
+    },
+    {
+      "id": "otros-camino-verdad-vida",
+      "titulo": "Yo soy el Camino, la Verdad y la Vida",
+      "artista": "Tradicional",
+      "categoria": "Otros",
+      "letra": "Hace más de dos mil años que Jesús vino a la tierra, a librarnos del pecado y a darnos la vida eterna. YO SOY, YO SOY, YO SOY EL CAMINO LA VERDAD Y LA VIDA YO SOY EL CAMINO LA VERDAD Y LA VIDA Y NADIE VA AL PADRE SI NO ES POR MÍ. Porque somos pecadores y por eso le cantamos a Jesús de mis amores al que está resucitado.",
+      "pagina": 137
+    },
+    {
+      "id": "otros-bamboleo",
+      "titulo": "Bamboleo",
+      "artista": "Adaptación",
+      "categoria": "Otros",
+      "letra": "Bamboleo, bambolea, porque mi vida yo la quiero vivir así. Bamboleo, bambolea, porque mi vida yo la quiero vivir con Dios. Tiene mi alma un son y una cantina, hecha de gracia y fe y agua marina. El Señor es un buen pastor, su historia de amor me quitó el dolor. Cantinero de almas, Cristo, Cristo, Cristo, solo bebo tu amor para no olvidar.",
+      "pagina": 137
+    },
+    {
+      "id": "otros-soy-cordobes",
+      "titulo": "Soy cordobés",
+      "artista": "Tradicional",
+      "categoria": "Otros",
+      "letra": "Soy cordobés, de la tierra de la alegría, de la mujer morena y de la luz del mediodía. Soy cordobés, y llevo en mi corazón a la Virgen de los Dolores y a mi Cristo de la Expiación. Córdoba, sultana y mora, Córdoba, cristiana y llana, eres la flor de la esencia de nuestra fe cordobesa.",
+      "pagina": 139
+    },
+    {
+      "id": "otros-sevillanas-mayores",
+      "titulo": "Sevillanas (Mayores)",
+      "artista": "Tradicional",
+      "categoria": "Otros",
+      "letra": "I. Yo me pongo mi sombrero y me voy para el camino, que el Rocío me espera con un abrazo divino. II. Enséñame el camino que lleva hasta tu ermita, que mi alma tiene sed de tu cara tan bonita. III. No es obra humana el querer que yo te tengo, que viene de mis padres y desde que yo era pequeño. IV. Sevillanas de los pijos que van por el real, pero yo voy con mi Virgen que es una madre especial.",
+      "pagina": 140
+    },
+    {
+      "id": "otros-sevillanas-menores",
+      "titulo": "Sevillanas (Menores)",
+      "artista": "Tradicional",
+      "categoria": "Otros",
+      "letra": "I. Tiempo detente, no pases tan deprisa, que quiero disfrutar de esta santa brisa. II. Sueña la margarita con ser una amapola, y yo sueño con María y no sentirme sola. III. Historia de una amapola que se quedó sin trigo, así es el alma mía si no está Dios conmigo. IV. A la puerta de Toledo le puse un candado, para que no se escape el amor que Dios me ha dado.",
+      "pagina": 142
+    },
+    {
+      "id": "otros-porque-te-llamas-rocio",
+      "titulo": "Porque te llamas Rocío",
+      "artista": "Tradicional",
+      "categoria": "Otros",
+      "letra": "I. Porque te llamas Rocío tu nombre que bien me suena. Me suena a gloria bendita y a cante por las arenas, a sones de campanillas con brisas del río quema. II. Eres la Blanca Paloma orgullo de Andalucía. Espiga de los trigales la amapola encendía, agua para el peregrino, la causa de mi alegría. III. Eres Pastora y Señora de la marisma la llana. El presidio marinero de los vados de Doñana y la fe del mundo entero el lunes por la mañana. IV. Porque te llamas Rocío en mi alma te venero. Tú vas en el simpecao en mi corazón sincero en la medalla de plata, Rocío, cuánto te quiero. A TAMBORIL Y A CANTE POR LAS ARENAS PORQUE TE LLAMAS ROCÍO TU NOMBRE QUE BIEN ME SUENA.",
+      "pagina": 144
+    },
+    {
+      "id": "otros-siempre-te-rezo",
+      "titulo": "Siempre te rezo",
+      "artista": "Tradicional",
+      "categoria": "Otros",
+      "letra": "I. Virgencita que guardas mi cabecera carita de jazmín ampárame de la mano en la 'vía' siempre me llevas. II. Tú que velas mi 'vía' sabes mi sueño carita de jazmín ampárame ponme a Dios pa' que un día logre mi empeño.",
+      "pagina": 144
     }
   ]
 }
